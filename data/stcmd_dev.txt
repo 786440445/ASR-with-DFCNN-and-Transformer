@@ -1,0 +1,600 @@
+ST-CMDS-20170001_1-OS/20170001P00142A0070.wav	mei2 qian2 yi4 fen1 qian2 mei2 you3 lao3 yue1 han4 ka3 li3	没钱一分钱没有老约翰卡里
+ST-CMDS-20170001_1-OS/20170001P00196A0072.wav	jiu4 shi4 gan3 jue2 la jin1 tian1 he2 xue3 qin2 gei3 wo3 da3 dian4 hua4	就是感觉啦今天何雪琴给我打电话
+ST-CMDS-20170001_1-OS/20170001P00337A0004.wav	gao1 zhong1 er4 ban1 du2 ning2 da4 de xue1 rui4 qiu1	高中二班读宁大的薛瑞邱
+ST-CMDS-20170001_1-OS/20170001P00148I0088.wav	piao1 xue3 ni3 zen3 me tui4 chu1 qun2 le ne	飘雪你怎么退出群了呢
+ST-CMDS-20170001_1-OS/20170001P00131I0047.wav	ling4 wai4 jiu4 jie1 ge4 wen3 shen2 me de mo1 mo1 er2 yi3	另外就接个吻什么的摸摸而已
+ST-CMDS-20170001_1-OS/20170001P00368I0013.wav	wo3 gei3 ni3 wen4 wen4 yun2 xia2 ba	我给你问问云霞吧
+ST-CMDS-20170001_1-OS/20170001P00367A0059.wav	jin1 yin2 cai2 bao3 san1 ge4 ye2 hai2 you3 ge4 di4 di4 jiao4 jun1 bao3	金银财宝三个爷还有个弟弟叫君宝
+ST-CMDS-20170001_1-OS/20170001P00213A0115.wav	na4 ni2 yu4 lin2 shou3 ji1 duo1 shao3 wen4 wen4 ni3 shi4 zai4 shua3 wo3	纳尼玉林手机多少问问你是在耍我
+ST-CMDS-20170001_1-OS/20170001P00035I0069.wav	ni3 ken3 ding4 jiu4 shi4 fu4 weng1 le	你肯定就是富翁了
+ST-CMDS-20170001_1-OS/20170001P00267I0078.wav	ba1 dian3 ban4 qi3 chuang2 shua1 ya2 xi3 lian3	八点半起床刷牙洗脸
+ST-CMDS-20170001_1-OS/20170001P00344I0013.wav	wo3 ling4 yi2 ge4 qun2 gei3 de zhi2 bo1 di4 zhi3	我另一个群给的直播地址
+ST-CMDS-20170001_1-OS/20170001P00027I0050.wav	hai2 juan1 qian2 gei3 long2 ya3 ren2	还捐钱给聋哑人
+ST-CMDS-20170001_1-OS/20170001P00090A0025.wav	dai4 ni3 qu4 ri4 yue4 guang1 dou1 yi4 quan1	带你去日月光兜一圈
+ST-CMDS-20170001_1-OS/20170001P00262A0029.wav	bao3 ju4 qi2 shi4 jing1 shen2 bu4 yun2 xu3 wo3 hou4 tui4 o	宝具骑士精神不允许我后退哦
+ST-CMDS-20170001_1-OS/20170001P00316A0080.wav	ni3 kan4 na4 li3 mian4 you3 lan2 ya2 er3 ji1 ma	你看那里面有蓝牙耳机吗
+ST-CMDS-20170001_1-OS/20170001P00206A0047.wav	mei2 zen3 me jiu4 shi4 wen4 yi2 xia4 hao3 hao3 shang4 ke4 sha3 fei2 zhu1	没怎么就是问一下好好上课傻肥猪
+ST-CMDS-20170001_1-OS/20170001P00350A0027.wav	da4 er2 zi yong3 yuan3 dou1 zai4 tiao3 bo1	大儿子永远都在挑拨
+ST-CMDS-20170001_1-OS/20170001P00325I0013.wav	ni3 zi1 xun2 de shi4 qing1 hua1 ci2 chen4 shan1 ma	你咨询的是青花瓷衬衫吗
+ST-CMDS-20170001_1-OS/20170001P00071A0011.wav	shuang1 shi2 yi1 zhi1 hou4 fan3 zheng4 shi4 ge4 zhong3 qiong2 o1	双十一之后反正是各种穷噢
+ST-CMDS-20170001_1-OS/20170001P00091I0112.wav	ping2 gai4 xu1 yao4 de hua4 mian4 shi4 xiao3 yuan2 quan1 nei4 de hua4 mian4	瓶盖需要的画面是小圆圈内的画面
+ST-CMDS-20170001_1-OS/20170001P00091I0117.wav	hao3 huai2 nian4 yi3 qian2 neng2 da3 qiu2 de ri4 zi a	好怀念以前能打球的日子啊
+ST-CMDS-20170001_1-OS/20170001P00353I0057.wav	wo3 zhe4 zhou1 wu3 huo4 zhe3 zhou1 liu4 jiu4 zou3 le	我这周五或者周六就走了
+ST-CMDS-20170001_1-OS/20170001P00085I0047.wav	gei3 ni3 kan4 kan4 qing1 yun2 xiong2	给你看看青云熊
+ST-CMDS-20170001_1-OS/20170001P00020I0017.wav	ta1 za3 lian2 zhe4 ge4 dou1 dao4 chu4 xuan1 yang2 ta1 shen2 me yi4 si	她咋连这个都到处宣扬她什么意思
+ST-CMDS-20170001_1-OS/20170001P00120I0087.wav	qu4 zhe4 jiang1 yong3 kang1 diao4 ji1 shou1 dao4 huo4 kuan3	去浙江永康调机收到货款
+ST-CMDS-20170001_1-OS/20170001P00079I0087.wav	wo3 qu4 zhao3 shi1 xiong1 gai4 de	我去找师兄盖的
+ST-CMDS-20170001_1-OS/20170001P00329I0114.wav	jia1 shang4 weng1 de2 li4 ta1 shi4 bu2 shi4 mei2 zai4 xian4	加上翁德利他是不是没在线
+ST-CMDS-20170001_1-OS/20170001P00078A0003.wav	tao2 yuan1 ming2 na4 pian4 yuan4 zi	陶渊明那片院子
+ST-CMDS-20170001_1-OS/20170001P00189A0089.wav	huang2 ya3 xuan1 ta1 dan1 shen1 ma wen4 wo3 gao4 su4 ni3 qu4 wen4	黄雅喧她单身吗问我告诉你去问
+ST-CMDS-20170001_1-OS/20170001P00199A0096.wav	ke3 yi3 kan1 cheng1 pi3 pei4 chang2 sheng4 jiang1 jun1 sha4 dou1 bu4 hui4 le	可以堪称匹配长胜将军啥都不会了
+ST-CMDS-20170001_1-OS/20170001P00183A0046.wav	fu4 gu3 hei1 xue3 fang3 chang2 qun2 liang3 se4	复古黑雪纺长裙两色
+ST-CMDS-20170001_1-OS/20170001P00088A0044.wav	bai3 wan4 fu4 weng1 na4 bian1 hui4 sheng1 zhi2 de	百万富翁那边会升值的
+ST-CMDS-20170001_1-OS/20170001P00049A0027.wav	er2 qie3 shang4 ci4 wo3 kan4 dao4 ni3 ma1 ma1 jue2 de2 ta1 hao3 xiong1	而且上次我看到你妈妈觉得她好凶
+ST-CMDS-20170001_1-OS/20170001P00065I0104.wav	ri4 qian2 shang4 bao4 qu1 min2 zheng4 ju2 ci2 shan4 hui4	日前上报区民政局慈善会
+ST-CMDS-20170001_1-OS/20170001P00351A0105.wav	ni3 qi1 pian4 gao1 yi1 jun1 gan3 qing2 a chun1 meng4 gan4 ma a	你欺骗高一军感情啊春梦干嘛啊
+ST-CMDS-20170001_1-OS/20170001P00032A0033.wav	wo3 qu4 yi1 yuan4 zuo4 he2 ci2 gong4 zhen4	我去医院做核磁共振
+ST-CMDS-20170001_1-OS/20170001P00117A0041.wav	bu4 xiang3 gen1 qun2 li3 xiong1 di4 tan2 qian2	不想跟群里兄弟谈钱
+ST-CMDS-20170001_1-OS/20170001P00256A0119.wav	hai2 pian4 ren2 shuo1 shen2 me du4 min2 jun1 jiao4 shou4 shen2 me de	还骗人说什么杜民军叫兽什么的
+ST-CMDS-20170001_1-OS/20170001P00332A0085.wav	ting1 shuo1 ni3 xiang3 guo4 lai2 shua3 shen2 me shi2 hou4 lai2	听说你想过来耍什么时候来
+ST-CMDS-20170001_1-OS/20170001P00378I0018.wav	wo3 zhe4 ren2 ke3 neng2 jiu4 shi4 tian1 sheng1 re3 ren2 tao3 yan4 de ren2	我这人可能就是天生惹人讨厌的人
+ST-CMDS-20170001_1-OS/20170001P00363A0098.wav	dou1 zhi1 dao4 gang1 hua4 jia1 xiao2 bo1 li2 de biao1 zhun3	都知道钢化夹胶玻璃的标准
+ST-CMDS-20170001_1-OS/20170001P00135A0017.wav	qing3 ge4 wei4 quan1 chang2 zheng3 li3 zi1 liao4 zhun3 shi2 can1 jia1	请各位圈长整理资料准时参加
+ST-CMDS-20170001_1-OS/20170001P00384I0058.wav	qin1 jie3 yong3 yuan3 kuai4 le4 yong3 yuan3 er4 shi2 ba1 sui4	亲姐永远快乐永远二十八岁
+ST-CMDS-20170001_1-OS/20170001P00114A0072.wav	ming2 ming2 sheng1 qi4 a er2 qie3 hai2 xiong1 le	明明生气啊而且还凶了
+ST-CMDS-20170001_1-OS/20170001P00119A0034.wav	shi4 tai4 que1 fa2 yun4 dong4 le ni3 sheng1 ri4	是太缺乏运动了你生日
+ST-CMDS-20170001_1-OS/20170001P00148I0096.wav	na4 pian1 ri4 zhi4 shi4 xie3 gei3 ma3 jun1 yu3 de	那篇日志是写给马君宇的
+ST-CMDS-20170001_1-OS/20170001P00163I0041.wav	ni3 yuan4 yi4 yao1 yue1 yi1 ge4 nan2 de guo4 lai2	你愿意邀约一个男的过来
+ST-CMDS-20170001_1-OS/20170001P00005I0116.wav	zhun3 bu4 zhun3 bei4 huo2 dong4 dou1 gen1 zhao4 shi1 xiong1 hui2 ge4 hua4	准不准备活动都跟赵师兄回个话
+ST-CMDS-20170001_1-OS/20170001P00349A0065.wav	zai4 qun2 nei4 jin4 zhi3 xuan1 chuan2	在群内禁止宣传
+ST-CMDS-20170001_1-OS/20170001P00316I0061.wav	dou1 bu4 neng2 zuo4 xue2 xiao4 you2 yong3 ka3 le	都不能做学校游泳卡了
+ST-CMDS-20170001_1-OS/20170001P00007A0092.wav	er2 qie3 hai2 shi4 ge4 gua3 fu4	而且还是个寡妇
+ST-CMDS-20170001_1-OS/20170001P00036I0112.wav	wo3 hai2 shi4 xi3 huan1 pi2 ka3 qiu1	我还是喜欢皮卡丘
+ST-CMDS-20170001_1-OS/20170001P00172I0102.wav	qu4 ri4 ben3 liu1 da2 quan1 qu4 ba	去日本溜达圈去吧
+ST-CMDS-20170001_1-OS/20170001P00377I0038.wav	rao2 shi4 sha1 man4 di4 guo2 wen2 ming2 xia2 er3 de zhong4 xun2 yang2 jian4	饶是沙曼帝国闻名遐迩的重巡洋舰
+ST-CMDS-20170001_1-OS/20170001P00347A0048.wav	jian3 fei2 li3 ying2 jun1 xun4 jiu4 ke3 yi3 le wo3 wei4 shen2 me	减肥李盈军训就可以了我为什么
+ST-CMDS-20170001_1-OS/20170001P00117A0022.wav	ni3 men zhun3 bei4 wan2 er2 dao4 ji3 dian3	你们准备玩儿到几点
+ST-CMDS-20170001_1-OS/20170001P00269A0096.wav	peng2 you3 ming2 zi4 fan4 jun1 yan4 gao1 er4 wo3 shuo1	朋友名字范钧焱高二我说
+ST-CMDS-20170001_1-OS/20170001P00371I0083.wav	san1 shan1 qu1 wei3 xuan1 chuan2 bu4	三山区委宣传部
+ST-CMDS-20170001_1-OS/20170001P00200I0062.wav	ni3 za3 re3 wo3 jia1 lao3 er4 le a	你咋惹我家老二了啊
+ST-CMDS-20170001_1-OS/20170001P00274I0105.wav	wo3 men pai4 jian4 er2 huang2 gang1 bu4 bao1 kuo4 er4 ji2 zhan4 dian3 jiu4	我们派件儿黄冈不包括二级站点就
+ST-CMDS-20170001_1-OS/20170001P00209A0013.wav	mu4 ce4 ni3 huai2 le ni3 dou1 kuang2 tu3 bu4 zhi3 le qin1 ai4 de	目测你怀了你都狂吐不止了亲爱的
+ST-CMDS-20170001_1-OS/20170001P00285I0030.wav	qin1 shi4 shang4 shen1 gen1 xia4 shen1 jun1 yun2 de shi4 ma	亲是上身跟下身均匀的是吗
+ST-CMDS-20170001_1-OS/20170001P00018A0052.wav	ni3 zhe4 bu4 shi4 yuan1 wang3 hao3 ren2 ne ma	你这不是冤枉好人呢嘛
+ST-CMDS-20170001_1-OS/20170001P00254I0087.wav	wo3 jiu4 guai1 dian3 gun3 dan4 ma	我就乖点滚蛋嘛
+ST-CMDS-20170001_1-OS/20170001P00334I0074.wav	jie2 guo3 yi1 qun2 ren2 du3 zai4 guai3 jiao3 chu4	结果一群人堵在拐角处
+ST-CMDS-20170001_1-OS/20170001P00105I0055.wav	ri4 zhao4 zi3 yu4 xuan1 dian4 hua4	日照紫钰轩电话
+ST-CMDS-20170001_1-OS/20170001P00057I0093.wav	bang1 wo3 yue1 zou1 jia1 yun2 he2 wo3 qu4 ya1	帮我约邹嘉纭和我去呀
+ST-CMDS-20170001_1-OS/20170001P00306I0069.wav	ni3 shen2 me shi2 hou4 ke3 yi3 ci2 zhi2 pi1 zhun3 ya1	你什么时候可以辞职批准呀
+ST-CMDS-20170001_1-OS/20170001P00214A0013.wav	neng2 ba3 bian4 cha1 zhu1 yu2 shao3 yi1 ren2 de ge1 ci2 gei3 wo3 ma	能把遍插茱萸少一人的歌词给我吗
+ST-CMDS-20170001_1-OS/20170001P00068A0082.wav	ba3 xiang1 tan2 ji3 jia1 yi1 yuan4 mo1 qing1 chu3	把湘潭几家医院摸清楚
+ST-CMDS-20170001_1-OS/20170001P00263I0068.wav	huang2 jiao4 zhu3 de mou3 shou3 ge1 li3 you3 zhe4 ju4 ge1 ci2	黄教主的某首歌里有这句歌词
+ST-CMDS-20170001_1-OS/20170001P00251A0083.wav	gao1 shou3 chu2 le da3 ma2 jiang1 xin1 you3 ling2 xi1 wo3 bu4 hui4	高手除了打麻将心有灵犀我不会
+ST-CMDS-20170001_1-OS/20170001P00263I0019.wav	ni3 hai2 bu4 shi4 yao4 gen1 zhao2 wo3 guo4 qiong2 ri4 zi	你还不是要跟着我过穷日子
+ST-CMDS-20170001_1-OS/20170001P00124I0029.wav	wo3 zao3 jiu4 bu4 wan2 wai1 wai1 le xian4 zai4 wan2 wei1 bo2	我早就不玩歪歪了现在玩微博
+ST-CMDS-20170001_1-OS/20170001P00428A0075.wav	mei3 nian2 dou1 yao4 jun1 xun4 jin1 nian2 dou1 di4 er4 nian2 le	每年都要军训今年都第二年了
+ST-CMDS-20170001_1-OS/20170001P00430A0042.wav	mei3 du4 de qu4 le ai1 kang1 jia1 ye3 shi4	美度的去了哎康佳也是
+ST-CMDS-20170001_1-OS/20170001P00431A0078.wav	dao4 dou1 jiang1 yan4 tai4 gui4 xue2 sheng1 xiao1 fei4 bu4 qi3	到都江堰太贵学生消费不起
+ST-CMDS-20170001_1-OS/20170001P00360A0015.wav	ran2 hou4 ta1 jiu4 shuo1 yao4 ci2 zhi2 ran2 hou4 wo3 men jiu4 quan4 ta1	然后他就说要辞职然后我们就劝他
+ST-CMDS-20170001_1-OS/20170001P00430A0040.wav	zai4 huang2 hua2 you3 ge4 an4 zi qian2 ji3 tian1 gang1 hui2 lai2	在黄骅有个案子前几天刚回来
+ST-CMDS-20170001_1-OS/20170001P00332I0105.wav	ni3 jin4 la xiong2 yue4 de qun2 bo1	你进啦熊岳的群波
+ST-CMDS-20170001_1-OS/20170001P00274A0103.wav	wan2 er2 de shen2 me yi1 tian1 tian1 de yang2 yan2 jun1 zai4 na3 ne	玩儿的什么一天天的杨延军在哪呢
+ST-CMDS-20170001_1-OS/20170001P00085I0085.wav	wo3 kan4 dao4 le xin1 ji4 sheng1 ren2 tan2 xue3 tan4 xun2	我看到了新计生人谭雪探寻
+ST-CMDS-20170001_1-OS/20170001P00383I0017.wav	qian2 liang3 tian1 hai2 ting1 bie2 ren2 shuo1 ni3 zai4 yun2 nan2	前两天还听别人说你在云南
+ST-CMDS-20170001_1-OS/20170001P00204I0117.wav	ni3 men zhun3 bei4 zai4 na3 li3 wan2 ne	你们准备在哪里玩呢
+ST-CMDS-20170001_1-OS/20170001P00222A0016.wav	ni3 shuo1 na4 xie1 wa2 wa shi4 ni3 he2 qun2 li3 de nv3 de de	你说那些娃娃是你和群里的女的的
+ST-CMDS-20170001_1-OS/20170001P00395I0117.wav	ni3 men dian4 you3 xue3 fang3 hei1 duan3 qun2 ma	你们店有雪纺黑短裙吗
+ST-CMDS-20170001_1-OS/20170001P00430A0102.wav	bu4 neng2 yun2 xu3 fan3 hui3 ma	不能允许反悔吗
+ST-CMDS-20170001_1-OS/20170001P00368I0039.wav	ni3 dou1 yuan4 yi4 le wo3 she3 ming4 pei2 jun1 zi3 ai1	你都愿意了我舍命陪君子诶
+ST-CMDS-20170001_1-OS/20170001P00088I0016.wav	huang2 jian4 xiang2 hai2 hui4 kua1 xi1 ban1 ya2 ya1	黄健翔还会夸西班牙呀
+ST-CMDS-20170001_1-OS/20170001P00352I0024.wav	lv3 you2 zhe3 ping2 jun1 zai4 chuan1 dou4 liu2 tian1 shu4	旅游者平均在川逗留天数
+ST-CMDS-20170001_1-OS/20170001P00143A0040.wav	gang1 ci2 zhi2 shi4 a tian1 cheng2 guang3 gao4 zuo4 guang3 gao4 le	刚辞职是啊天成广告做广告了
+ST-CMDS-20170001_1-OS/20170001P00141A0107.wav	mai3 ying1 xiong2 wo3 hao4 li3 hao3 xiang4 hai2 you3 dian3 quan4	买英雄我号里好像还有点券
+ST-CMDS-20170001_1-OS/20170001P00043A0085.wav	ru2 guo3 huang2 jun1 zhen1 de zhi3 shi4 wo3 xiang3 wo3 xiang3 de zhe4 yang4	如果黄君真的只是我想我想的这样
+ST-CMDS-20170001_1-OS/20170001P00035I0105.wav	wo3 zai4 kan4 wo3 men jun1 xun4 qun2 li3 liao2 tian1	我在看我们军训群里聊天
+ST-CMDS-20170001_1-OS/20170001P00325I0022.wav	mai3 le hao3 duo1 shu1 wo3 ka3 li3 jiu4 qiong2 le	买了好多书我卡里就穷了
+ST-CMDS-20170001_1-OS/20170001P00007A0080.wav	wen4 ti2 jiu4 zai4 yu2 zhang1 shu4 jun1 zhe4 song3 mu4 de2 hen3	问题就在于张树军这怂木得很
+ST-CMDS-20170001_1-OS/20170001P00406A0033.wav	shi4 yin1 wei4 yang2 xiong2 cai2 che3 qi3 de	是因为杨雄才扯起的
+ST-CMDS-20170001_1-OS/20170001P00062A0108.wav	er2 qie3 wo3 hui2 da2 wen4 ti2 ye3 xiang4 zhou1 yi2 jun1 na4 yang4	而且我回答问题也像周怡君那样
+ST-CMDS-20170001_1-OS/20170001P00280A0064.wav	qu4 ba fo2 hai3 wu2 ya2 lao3 na4 fa3 hao4 li3 qing1	去吧佛海无涯老衲法号李青
+ST-CMDS-20170001_1-OS/20170001P00237I0106.wav	wang2 yun2 xia2 gong1 hui4 zhu3 xi2	王云霞工会主席
+ST-CMDS-20170001_1-OS/20170001P00217A0109.wav	ni3 ge4 diao3 si1 xie3 de hao3 wen2 yi4 yu2 ben3 lai2 hui4 you2 yong3	你个屌丝写的好文艺鱼本来会游泳
+ST-CMDS-20170001_1-OS/20170001P00165A0106.wav	zhe4 zhong3 long2 wo3 ji4 de2 you2 xia2 hao4 shang4 ye3 you3	这种龙我记得游侠号上也有
+ST-CMDS-20170001_1-OS/20170001P00030A0109.wav	li3 yue4 jiu4 zai4 xuan1 xuan1 de qun2 le	李月就在轩轩的群了
+ST-CMDS-20170001_1-OS/20170001P00091A0043.wav	na4 wo3 jiu4 yong4 na4 ge4 yun3 shi2 hai2 de	那我就用那个陨石还的
+ST-CMDS-20170001_1-OS/20170001P00032A0012.wav	wo3 yuan4 de te4 se4 zheng3 xing2 xiang4 mu4 jiu4 shi4 zhi1 fang2 long2 xiong1	我院的特色整形项目就是脂肪隆胸
+ST-CMDS-20170001_1-OS/20170001P00354I0108.wav	wo3 yao4 shang4 lai2 gai4 ge4 zhang1	我要上来盖个章
+ST-CMDS-20170001_1-OS/20170001P00107I0002.wav	tu2 shu1 guan3 zhi3 sheng4 xia4 wo3 men xue2 yuan4 de wa2 er2 le	图书馆只剩下我们学院的娃儿了
+ST-CMDS-20170001_1-OS/20170001P00192I0062.wav	ri4 ben3 you3 ren2 song4 xue3 zhang4	日本友人送雪仗
+ST-CMDS-20170001_1-OS/20170001P00277A0001.wav	na4 shi4 wo3 de zhuan1 you3 ming2 ci2 mao2 xian4 ni3 wen4	那是我的专有名词毛线你问
+ST-CMDS-20170001_1-OS/20170001P00389I0103.wav	xin1 xiang1 san1 quan1 yi1 xue2 yuan4 quan2	新乡三圈医学院全
+ST-CMDS-20170001_1-OS/20170001P00354I0041.wav	ni3 qu4 hai2 shi4 huang2 xiong1 qu4	你去还是黄兄去
+ST-CMDS-20170001_1-OS/20170001P00324I0108.wav	dou1 shi4 che3 dan4 wan2 wan2 er2 jiu4 shuai3	都是扯淡玩玩儿就甩
+ST-CMDS-20170001_1-OS/20170001P00116A0021.wav	huai2 yu4 ba3 shou3 zhi3 yong4 dao1 zhe2 le xian4 zai4 zhu4 yuan4 ne	怀玉把手指用刀折了现在住院呢
+ST-CMDS-20170001_1-OS/20170001P00365I0019.wav	ni3 chuan1 duan3 qun2 di4 xiong1 wo3 jiu4 chuan1	你穿短裙弟兄我就穿
+ST-CMDS-20170001_1-OS/20170001P00175A0093.wav	bie2 de ren2 mo1 ni3 xiong1 de shi2 hou4	别的人摸你胸的时候
+ST-CMDS-20170001_1-OS/20170001P00166I0071.wav	ni3 zhun3 bei4 ba3 ta1 men shuai3 dao4 yi1 bian1 zi4 ji3 wan2 a	你准备把他们甩到一边自己玩啊
+ST-CMDS-20170001_1-OS/20170001P00025A0004.wav	ni3 pei2 wo3 you2 shan1 wan2 shui3 qu4 da4 shi1 xiong1 ni3 zen3 me le	你陪我游山玩水去大师兄你怎么了
+ST-CMDS-20170001_1-OS/20170001P00396A0077.wav	wo3 gei3 ni3 shi2 jian1 ye3 yun2 xu3 ni3 nan2 guo4	我给你时间也允许你难过
+ST-CMDS-20170001_1-OS/20170001P00073A0026.wav	ke3 chuan1 sha1 qun2 hao3 you2 yong3 ma	可穿纱裙好游泳吗
+ST-CMDS-20170001_1-OS/20170001P00343I0112.wav	wo3 men zai4 si4 hui4 ci2 yun2 si4	我们在四惠慈云寺
+ST-CMDS-20170001_1-OS/20170001P00352A0067.wav	bao3 bei4 zhe4 xie1 ci2 yong4 de shou3 dao4 qin2 lai2	宝贝这些词用的手到擒来
+ST-CMDS-20170001_1-OS/20170001P00244I0108.wav	ren2 de xuan3 ze2 yong3 yuan3 dou1 nan2 yi3 que4 ding4	人的选择永远都难以确定
+ST-CMDS-20170001_1-OS/20170001P00317A0098.wav	ni3 pei2 xie4 jia1 jiu4 ke3 yi3 la xie4 xie4 lo	你陪谢佳就可以啦谢谢咯
+ST-CMDS-20170001_1-OS/20170001P00109A0022.wav	ran2 hou4 zai4 rang4 lao3 gong1 wen4 yun3 bu4 yun2 xu3	然后再让老公问允不允许
+ST-CMDS-20170001_1-OS/20170001P00315A0104.wav	ni3 bie2 zai4 hu1 you1 qun2 li3 de xiong1 di4 le	你别再忽悠群里的兄弟了
+ST-CMDS-20170001_1-OS/20170001P00031I0018.wav	jiu4 shi4 gong1 si1 zai4 zhe4 fang1 mian4 que1 fa2 xiang1 guan1 de biao1 zhun3	就是公司在这方面缺乏相关的标准
+ST-CMDS-20170001_1-OS/20170001P00050I0111.wav	wo3 jue2 de2 si4 yuan4 de da2 bian4 ci2 man2 you3 yi4 si de	我觉得寺院的答辩词蛮有意思的
+ST-CMDS-20170001_1-OS/20170001P00249A0002.wav	er4 wa2 zhu4 yi4 yu3 ju4 hai2 mei2 you3 chu1 lai2 hao3 re4 e2	二娃注意语句还没有出来好热哦
+ST-CMDS-20170001_1-OS/20170001P00268I0076.wav	bing4 qie3 shang4 mian4 de qi4 pao4 ye3 shi4 fei1 chang2 jun1 yun2 de	并且上面的气泡也是非常均匀的
+ST-CMDS-20170001_1-OS/20170001P00234A0020.wav	ta1 men qi1 fu4 wo3 wo3 mei2 you3 a wo3 yuan1 wang3 a	她们欺负我我没有啊我冤枉啊
+ST-CMDS-20170001_1-OS/20170001P00205I0040.wav	zai4 wu3 ning2 lu2 ya2 shan1 you2 lan3	在武宁芦芽山游览
+ST-CMDS-20170001_1-OS/20170001P00262I0089.wav	nv3 wa2 er2 shuo1 yao4 wen1 ya3 dian3	女娃儿说要温雅点
+ST-CMDS-20170001_1-OS/20170001P00201I0107.wav	kan4 she4 diao1 ying1 xiong2 zhuan4 dou1 ka3	看射雕英雄传都卡
+ST-CMDS-20170001_1-OS/20170001P00018I0056.wav	wo3 kuai4 ao2 guo4 zhu4 yuan4 ni3 wa2 shi4 na3 tian1 lai2 de	我快熬过住院你娃是哪天来的
+ST-CMDS-20170001_1-OS/20170001P00028A0110.wav	qi3 chuang2 ne wo3 jin1 tian1 gen1 peng2 you3 yue1 le	起床呢我今天跟朋友约了
+ST-CMDS-20170001_1-OS/20170001P00366I0018.wav	wo3 yong4 jia1 qian2 ba3 ka3 huang2 wang3 zhong1 jian1 ban1 le ban1	我用夹钳把卡簧往中间扳了扳
+ST-CMDS-20170001_1-OS/20170001P00065I0064.wav	san1 tai2 de yi1 yuan4 tai4 lan4 le	三台的医院太烂了
+ST-CMDS-20170001_1-OS/20170001P00332I0053.wav	wan4 ren2 ci4 ri4 jun1 ren2 liu2 liang4	万人次日均人流量
+ST-CMDS-20170001_1-OS/20170001P00002A0057.wav	bu4 deng3 yu2 ta1 bu4 cun2 zai4 zao3 wan3 de shi4 ni3 yong3 yuan3 ba	不等于他不存在早晚的事你永远吧
+ST-CMDS-20170001_1-OS/20170001P00038A0001.wav	ni3 yuan4 yi4 zuo4 wo3 de mei3 ren2 yu2 yong3 bu4 pi1 tui3 ma	你愿意做我的美人鱼永不劈腿吗
+ST-CMDS-20170001_1-OS/20170001P00364I0119.wav	wo3 yi3 wei4 na4 wa2 yao4 he2 ni3 qun2 cai3	我以为那娃要和你群踩
+ST-CMDS-20170001_1-OS/20170001P00239I0067.wav	wo3 men bu4 zai4 qun2 wai1 wai1	我们不在群歪歪
+ST-CMDS-20170001_1-OS/20170001P00339I0053.wav	wo3 yao4 kan4 kan4 ni3 hai2 neng2 che3 chu1 shen2 me hua4 ti2 a	我要看看你还能扯出什么话题啊
+ST-CMDS-20170001_1-OS/20170001P00323I0116.wav	ni3 dong3 de ba zui4 jia1 sun3 you3 wo3 hen3 xi3 huan1 ting1 ne	你懂的吧最佳损友我很喜欢听呢
+ST-CMDS-20170001_1-OS/20170001P00144A0003.wav	ni3 zhe4 li3 you3 qu4 nian2 yi1 ri4 juan1 de ge4 ren2 ji4 lu4 ma	你这里有去年一日捐的个人记录吗
+ST-CMDS-20170001_1-OS/20170001P00353I0052.wav	wo3 zhi3 hui4 wan2 er2 xuan4 wu3 he2 mo2 er3 zhuang1 yuan2	我只会玩儿炫舞和摩尔庄园
+ST-CMDS-20170001_1-OS/20170001P00010A0034.wav	bo1 bo1 xuan1 xuan1 zhi4 jing4	波波轩轩致敬
+ST-CMDS-20170001_1-OS/20170001P00227I0072.wav	weng1 niu2 te4 qi2 ren2 min2 fa3 yuan4	翁牛特旗人民法院
+ST-CMDS-20170001_1-OS/20170001P00397I0085.wav	wen1 zong3 hui2 lai2 le yao4 qu4 zhao3 ta1 ma	温总回来了要去找他吗
+ST-CMDS-20170001_1-OS/20170001P00095A0016.wav	xu2 xian1 jun1 shen1 qing3 de xie2 yi4 fang1 an4 kai1 guo4 le	徐先军申请的协议方案开过了
+ST-CMDS-20170001_1-OS/20170001P00360I0081.wav	ta1 ai4 ren2 chen2 jin1 xia2 jie1 guan3 le guo2 jin1 zheng4 quan4	他爱人陈金霞接管了国金证券
+ST-CMDS-20170001_1-OS/20170001P00386A0078.wav	hun2 shui3 mo1 yu2 kan4 ta1 an1 pai2 da4 yue1 dai4 piao1 liu2 fei4 yong4	浑水摸鱼看他安排大约带漂流费用
+ST-CMDS-20170001_1-OS/20170001P00409A0114.wav	hai3 di3 lao1 chi1 huo3 guo1 bu4 shi4 hen3 re4	海底捞吃火锅不是很热
+ST-CMDS-20170001_1-OS/20170001P00191I0022.wav	gang1 cai2 xiong2 gang1 de nv3 peng2 you3 shuo1 huang2 dong1 dong1 hui2 lai2 le	刚才熊刚的女朋友说黄冬冬回来了
+ST-CMDS-20170001_1-OS/20170001P00041I0095.wav	wo3 zhi1 dao4 ta1 bu4 xiang3 gen1 wo3 you3 gua1 ge2	我知道他不想跟我有瓜葛
+ST-CMDS-20170001_1-OS/20170001P00298A0007.wav	tian1 tian1 bao4 zhao2 xiao3 mian2 yang2 mei2 you3 hao3 xiong1 la	天天抱着小绵羊没有好凶啦
+ST-CMDS-20170001_1-OS/20170001P00176I0119.wav	wo3 ri4 shang4 ci4 zi1 xun2 guo4 feng1 xiong1 de	我日上次咨询过丰胸的
+ST-CMDS-20170001_1-OS/20170001P00397I0042.wav	zhi2 jie1 dang1 mo3 xiong1 qun2 chuan1	直接当抹胸裙穿
+ST-CMDS-20170001_1-OS/20170001P00376A0046.wav	fan4 shen1 qiong2 zai4 ren2 min2 yi1 yuan4 ren4 shi4 zhou1 ling2 er2	范申琼在人民医院认识周玲儿
+ST-CMDS-20170001_1-OS/20170001P00398A0031.wav	ni3 qing1 yi4 xiang1 xin4 bie2 ren2 rang4 wo3 geng3 geng3 yu2 huai2	你轻易相信别人让我耿耿于怀
+ST-CMDS-20170001_1-OS/20170001P00089A0027.wav	lao3 ban3 niang2 shen1 huai2 liu4 jia3	老板娘身怀六甲
+ST-CMDS-20170001_1-OS/20170001P00391A0015.wav	wei4 shen2 me jiu4 bu4 neng2 yu2 kuai4 de wan2 shua3 le	为什么就不能愉快的玩耍了
+ST-CMDS-20170001_1-OS/20170001P00243A0040.wav	dai4 le zheng3 zheng3 yi1 ge4 xiao3 shi2 cai2 qi3 lai2	待了整整一个小时才起来
+ST-CMDS-20170001_1-OS/20170001P00053I0119.wav	wo3 jiu4 wen4 chen2 jun1 de ka3 zen3 me bu4 neng2 yong4 le	我就问陈军的卡怎么不能用了
+ST-CMDS-20170001_1-OS/20170001P00193A0013.wav	jiao3 tai4 hua2 lao3 shi4 shuai1 dao3 er4 shi2 fen1 zhong1 nv3 sheng1 zai4 tou2	脚太滑老是摔倒二十分钟女生在投
+ST-CMDS-20170001_1-OS/20170001P00114A0051.wav	dan4 shi4 ye3 jiu4 yun2 xu3 fan2 yi1 hui4 er2	但是也就允许烦一会儿
+ST-CMDS-20170001_1-OS/20170001P00293I0015.wav	xiao3 xue3 jie3 jie gei3 wo3 chang4 ge4 sheng1 ri4 kuai4 le4 bai4	小雪姐姐给我唱个生日快乐呗
+ST-CMDS-20170001_1-OS/20170001P00286I0044.wav	yue4 zhun3 bei4 lian4 zi4 he2 you2 yong3	月准备练字和游泳
+ST-CMDS-20170001_1-OS/20170001P00191A0027.wav	jia1 xiang1 hen3 duo1 ci2 ni3 men du2 chu1 lai2 bu4 yi1 ding4 zhi1 dao4	家乡很多词你们读出来不一定知道
+ST-CMDS-20170001_1-OS/20170001P00226I0084.wav	ru2 guo3 pai2 chu2 zhe4 ge4 qian1 wan4 fu4 weng1 ban1	如果排除这个千万富翁班
+ST-CMDS-20170001_1-OS/20170001P00116I0081.wav	wu3 xuan1 xian4 ren2 min2 yi1 yuan4 lai2 dian4 hua4	武宣县人民医院来电话
+ST-CMDS-20170001_1-OS/20170001P00366A0017.wav	mei2 you3 ren2 yun2 xu3 wo3 zai4 xiang4 hai2 zi yi1 yang4	没有人允许我再像孩子一样
+ST-CMDS-20170001_1-OS/20170001P00106A0004.wav	ba3 mao1 bo1 dao4 huai2 li3 lai2	把猫拨到怀里来
+ST-CMDS-20170001_1-OS/20170001P00397A0007.wav	bu4 zhun3 zai4 tui1 ci2 la shuo1 hao3 le	不准再推辞啦说好了
+ST-CMDS-20170001_1-OS/20170001P00422A0030.wav	ba3 ni3 dian4 ci2 bo1 xi2 ti2 ce4 jie4 wo3	把你电磁波习题册借我
+ST-CMDS-20170001_1-OS/20170001P00423A0111.wav	sheng4 dan4 jie2 kuai4 le4 zhu4 ni3 zao3 ri4 huai2 yun4	圣诞节快乐祝你早日怀孕
+ST-CMDS-20170001_1-OS/20170001P00288A0019.wav	ran2 hou4 cong2 wen1 zhou1 nan2 da1 che1 dao4 xia2 pu3	然后从温州南搭车到霞浦
+ST-CMDS-20170001_1-OS/20170001P00238A0096.wav	na4 bi4 xu1 de ci2 xi1 zhe4 bian1 zhu4 su4 biao1 zhun3 shi4 duo1 shao3	那必须的慈溪这边住宿标准是多少
+ST-CMDS-20170001_1-OS/20170001P00330I0037.wav	ni3 lia3 qin1 wen3 yong1 bao4 ma	你俩亲吻拥抱吗
+ST-CMDS-20170001_1-OS/20170001P00306I0068.wav	mei2 you3 yao1 zhui1 guan3 xia2 zhai3 zheng4 xiang1 guan1 zheng4 zhuang4 zhe3	没有腰椎管狭窄症相关症状者
+ST-CMDS-20170001_1-OS/20170001P00399A0071.wav	hui4 tong1 guo4 ni3 de yun3 xu3 gen1 ni3 gou1 tong1	会通过你的允许跟你沟通
+ST-CMDS-20170001_1-OS/20170001P00341A0061.wav	kao3 yan4 yi3 hou4 xiao3 xun1 jiu4 shi4 fu4 qun2 zhu3 le e2 e2	考验以后小熏就是副群主了哦哦
+ST-CMDS-20170001_1-OS/20170001P00309I0115.wav	ta1 shuo1 deng3 chu1 yuan4 qu4 ta1 jia1 wan2 ba	他说等出院去他家玩吧
+ST-CMDS-20170001_1-OS/20170001P00239A0086.wav	sha4 shi2 huai2 shang4 qu4 he2 fei2 sha4 shi2 hui2 lai2	啥时怀上去合肥啥时回来
+ST-CMDS-20170001_1-OS/20170001P00133A0106.wav	hao3 huang2 mei3 tu2 xiu4 xiu4 ting3 fang1 bian4 de wa2	好黄美图秀秀挺方便的娃
+ST-CMDS-20170001_1-OS/20170001P00054A0106.wav	qun2 deng3 ji2 da2 dao4 jun1 zhang3 jia4 ge2	群等级达到军长价格
+ST-CMDS-20170001_1-OS/20170001P00117I0080.wav	ye4 mo2 xia2 chi1 zhan4 lie4 kai1 wei3 qu1 hai2 shi4 jia1 li4 lai2 zhao2	夜魔侠吃战列开委屈还是加力来着
+ST-CMDS-20170001_1-OS/20170001P00233A0026.wav	qian1 yue1 zhun3 bei4 he2 tong2 xu1 yao4 duo1 chang2 shi2 jian1 a	签约准备合同需要多长时间啊
+ST-CMDS-20170001_1-OS/20170001P00347I0113.wav	wo3 hai2 ning2 yuan4 qu4 na3 er2 hai2 an1 yi4 dian3 ne	我还宁愿去哪儿还安逸点呢
+ST-CMDS-20170001_1-OS/20170001P00074I0028.wav	ni3 yao4 shi4 que1 ai4 huo4 zhe3 ye3 shi4 yi1 yang4 wan2 jia1	你要是缺爱或者也是一样玩家
+ST-CMDS-20170001_1-OS/20170001P00390A0031.wav	er2 qie3 shi4 mo4 li4 xue3 qin1 qi1 kai1 de	而且是莫丽雪亲戚开的
+ST-CMDS-20170001_1-OS/20170001P00390A0050.wav	jin1 nian2 yao4 hui2 lai2 shua3 mei4 mei wo3 shi4 ni3 ge1 ge1	今年要回来耍妹妹我是你哥哥
+ST-CMDS-20170001_1-OS/20170001P00224A0089.wav	ni3 you4 bu4 shi4 he2 deng4 kun1 yi1 yang4 guai3 le liang2 jia1 fu4 nv3	你又不是和邓坤一样拐了良家妇女
+ST-CMDS-20170001_1-OS/20170001P00012I0097.wav	su4 she4 yi1 qi3 de ri4 zi wo3 si4 hu1 zong3 shi4 zai4 que1 xi2	宿舍一起的日子我似乎总是在缺席
+ST-CMDS-20170001_1-OS/20170001P00177I0065.wav	jin1 ri4 you4 qu4 ban4 guai1 nv3 a	今日又去扮乖女啊
+ST-CMDS-20170001_1-OS/20170001P00241A0092.wav	mei4 mei ni3 na4 li3 hai2 you3 shen2 me jun1 qun2 ma	妹妹你那里还有什么军群吗
+ST-CMDS-20170001_1-OS/20170001P00290I0027.wav	wo3 nai3 nai3 cong2 chuang2 shang4 xia4 lai2 le	我奶奶从床上下来了
+ST-CMDS-20170001_1-OS/20170001P00300I0094.wav	ta1 men gei3 guai1 zi3 guo4 de shi4 nong2 li4 de sheng1 ri4	他们给乖子过的是农历的生日
+ST-CMDS-20170001_1-OS/20170001P00075A0117.wav	wo3 zuo4 ni3 de di4 si4 zhe3	我做你的第四者
+ST-CMDS-20170001_1-OS/20170001P00010I0080.wav	shen1 ti3 you3 xie1 pi2 juan4 yu3 shuai1 lu4	身体有些疲倦与衰路
+ST-CMDS-20170001_1-OS/20170001P00108A0069.wav	shou3 dong4 jia1 dian4 xiao4 ci2 kang1 fu4 zhan4 li4 chuang2	手动家电孝慈康复站立床
+ST-CMDS-20170001_1-OS/20170001P00185A0059.wav	na4 zhi1 chun3 huo4 ya2 chi3 hai2 bu4 zen3 me lou4	那只蠢货牙齿还不怎么漏
+ST-CMDS-20170001_1-OS/20170001P00404A0075.wav	peng2 ying1 zi3 zuo4 shen2 me shi4 hai2 yao4 shui2 yun2 xu3 ma	彭英子做什么事还要谁允许吗
+ST-CMDS-20170001_1-OS/20170001P00120I0040.wav	lao2 shan1 jun1 gong1 zhan4 dai4 lai2 de yi1 lun2 hong2 ri4 zhao4 bi4 hai3	崂山军供站带来的一轮红日照碧海
+ST-CMDS-20170001_1-OS/20170001P00330I0068.wav	bei3 jing1 shi4 di4 zhi2 gong1 cheng2 kan1 cha2 yuan4 zhang1 yong3	北京市地质工程勘察院张勇
+ST-CMDS-20170001_1-OS/20170001P00311A0046.wav	na4 jin1 tian1 wan3 shang4 wo3 men xi3 yuan1 yang1 yu4	那今天晚上我们洗鸳鸯浴
+ST-CMDS-20170001_1-OS/20170001P00021I0012.wav	zhe4 shi4 wo3 ba4 de peng2 you3 lin2 ju1 jia1 de che1	这是我爸的朋友邻居家的车
+ST-CMDS-20170001_1-OS/20170001P00177A0099.wav	na3 tian1 wo3 pei2 ni3 he1 er4 bao3 de ya2 hai2 teng2 zhao2 ne	哪天我陪你喝二宝的牙还疼着呢
+ST-CMDS-20170001_1-OS/20170001P00138I0002.wav	wan4 yuan2 yi3 shang4 zhe3 yi1 ding4 de sheng1 huo2 bian4 li4 he2 bu3 zhu4	万元以上者一定的生活便利和补助
+ST-CMDS-20170001_1-OS/20170001P00432A0103.wav	wo3 ba1 dian3 jiu4 shang4 ban1 er2 le huang2 qing1 ye3 shi4 shan1 li3 de wa2	我八点就上班儿了黄清也是山里的娃
+ST-CMDS-20170001_1-OS/20170001P00101A0048.wav	ke3 shi2 jian1 bu4 yun2 xu3 wo3 men liao2 liao2 tian1	可时间不允许我们聊聊天
+ST-CMDS-20170001_1-OS/20170001P00344A0065.wav	wo3 sun1 xue3 gan3 jin3 de jia1 wo3 kuai4 dian3	我孙雪赶紧的加我快点
+ST-CMDS-20170001_1-OS/20170001P00442A0019.wav	weng4 an1 dao4 fu2 quan2 zui4 hou4 yi1 ci4 che1 ji3 dian3	瓮安到福泉最后一次车几点
+ST-CMDS-20170001_1-OS/20170001P00148I0047.wav	weng1 er3 sen1 zai4 na3 er2 ne	翁尔森在哪儿呢
+ST-CMDS-20170001_1-OS/20170001P00325A0055.wav	wei4 shen2 me bu4 zhun3 ni3 wan2 er2 shou3 ji1 ne	为什么不准你玩儿手机呢
+ST-CMDS-20170001_1-OS/20170001P00172I0058.wav	na4 ka3 qi2 se4 huo4 zhe3 jun1 lv4 se4 ne	那卡其色或者军绿色呢
+ST-CMDS-20170001_1-OS/20170001P00026I0116.wav	ming2 tian1 yao4 jun1 xun4 le wo3 hai2 mei2 zhun3 bei4 hao3	明天要军训了我还没准备好
+ST-CMDS-20170001_1-OS/20170001P00334I0031.wav	zhe4 liang3 tian1 qu4 xiang1 gang3 le	这两天去香港了
+ST-CMDS-20170001_1-OS/20170001P00343I0058.wav	huang2 de2 xuan1 shi4 bu2 shi4 neng2 cha2 fen1 le	黄德轩是不是能查分了
+ST-CMDS-20170001_1-OS/20170001P00063I0051.wav	da4 xue3 guo4 hou4 qin2 huang2 dao3 da4 er4 de shi2 hou4	大雪过后秦皇岛大二的时候
+ST-CMDS-20170001_1-OS/20170001P00080A0109.wav	zui4 mang2 de shi4 jiu4 shi4 he2 lao3 po2 yue1 hui4	最忙的事就是和老婆约会
+ST-CMDS-20170001_1-OS/20170001P00166I0023.wav	zi4 ji3 ci2 zhi2 bu4 gan4 cong2	自己辞职不干从
+ST-CMDS-20170001_1-OS/20170001P00200A0112.wav	ku3 ming4 de yuan1 yang1 shen2 me shi2 hou4 cai2 neng2 ao2 chu1 tou2 ya1	苦命的鸳鸯什么时候才能熬出头呀
+ST-CMDS-20170001_1-OS/20170001P00258I0099.wav	shen2 feng4 huang2 xiong1 di4 ni3 hao3	神凤凰兄弟你好
+ST-CMDS-20170001_1-OS/20170001P00424A0041.wav	wo3 ming2 tian1 zhun3 bei4 qu4 san1 men2 xia2 de	我明天准备去三门峡的
+ST-CMDS-20170001_1-OS/20170001P00211A0085.wav	na4 ni3 hai2 bu4 ru2 qi1 wang4 li3 zong1 rui4 shi4 bei4 yuan1 wang3 de	那你还不如期望李宗瑞是被冤枉的
+ST-CMDS-20170001_1-OS/20170001P00364A0094.wav	ta1 men dou1 bu4 yun2 xu3 wo3	他们都不允许我
+ST-CMDS-20170001_1-OS/20170001P00091I0082.wav	xin4 nv3 jun1 sheng1 ri4 shi4 duo1 shao3 hao4 a	信女君生日是多少号啊
+ST-CMDS-20170001_1-OS/20170001P00277A0100.wav	na4 tian1 wo3 zai4 an4 xiang1 dou1 yu4 dao4 yao2 jia1 le	那天我在暗香都遇到姚佳了
+ST-CMDS-20170001_1-OS/20170001P00259I0080.wav	qian1 yue1 ri4 qi1 nian2 yue4 ri4	签约日期年月日
+ST-CMDS-20170001_1-OS/20170001P00189I0018.wav	wo3 yao4 zhao3 ge4 zi4 cheng1 jie3 huo4 zhe3 ye2 de	我要找个自称姐或者爷的
+ST-CMDS-20170001_1-OS/20170001P00204I0068.wav	qing1 jun1 you3 hen3 duo1 wu3 qi4 ri4 jun1 jian4 dou1 mei2 jian4 guo4	清军有很多武器日军见都没见过
+ST-CMDS-20170001_1-OS/20170001P00198A0036.wav	kai1 ye4 you3 zeng4 song4 guang1 lin2 shi4 ni3 huai2 yun4 de shi2 qi1 ma	开业有赠送光临是你怀孕的时期吗
+ST-CMDS-20170001_1-OS/20170001P00405I0114.wav	wan3 jiu3 dian3 di3 da2 guang3 zhou1 bai2 yun2 ji1	晚九点抵达广州白云机
+ST-CMDS-20170001_1-OS/20170001P00135A0052.wav	lin2 jun4 yong3 yun2 cheng2 qu1 dou1 yang2 zhen4 wa3 tang2 cun1	林俊永云城区都杨镇瓦塘村
+ST-CMDS-20170001_1-OS/20170001P00364I0035.wav	qing3 gai3 hao3 tian1 qing2 jun1 tuan2 de ni4 cheng1 zai4 shang4 mai4	请改好天晴军团的昵称再上麦
+ST-CMDS-20170001_1-OS/20170001P00133I0062.wav	zhang1 li4 juan1 shuo1 wang2 chen2 de qun2 zi duan3	张莉娟说王晨的裙子短
+ST-CMDS-20170001_1-OS/20170001P00103A0109.wav	zhuan4 dao4 qian2 ni3 sheng1 ri4 song4 ni3 ge4 chong1 qi4 wa2 wa	赚到钱你生日送你个充气娃娃
+ST-CMDS-20170001_1-OS/20170001P00018I0033.wav	ai1 ya1 ben3 lai2 jiu4 dui4 wo3 xiong1 guo4	哎呀本来就对我凶过
+ST-CMDS-20170001_1-OS/20170001P00304I0092.wav	na4 zhi1 neng2 shuo1 qun2 zhong4 de yan3 jing1 shi4 xue3 liang4 de le	那只能说群众的眼睛是雪亮的了
+ST-CMDS-20170001_1-OS/20170001P00325A0009.wav	hai2 shi4 zhun3 bei4 ru4 dang3 xuan1 shi4	还是准备入党宣誓
+ST-CMDS-20170001_1-OS/20170001P00358I0079.wav	guai3 da4 shi1 bu4 zen3 bao4 yuan4 gong1 zuo4 a	拐大师不怎抱怨工作啊
+ST-CMDS-20170001_1-OS/20170001P00379A0024.wav	qin1 ai4 de xue3 yin2 bao3 bei4 lao3 po2 lao3 gong1 de yan3 zai4 wang4	亲爱的雪银宝贝老婆老公的眼在望
+ST-CMDS-20170001_1-OS/20170001P00265A0048.wav	ba3 wo3 men er4 qu1 gu1 niang2 dou1 guai3 qi3 pao4 le	把我们二区姑娘都拐起泡了
+ST-CMDS-20170001_1-OS/20170001P00433A0078.wav	xia1 hu2 che3 guang1 gei3 zhe4 you4 xiang3 ai1 xiong2 lei4	瞎胡扯光给这又想挨熊类
+ST-CMDS-20170001_1-OS/20170001P00245A0019.wav	ge2 a1 yi2 jiu4 ci2 gong1 zou3 le	葛阿姨就辞工走了
+ST-CMDS-20170001_1-OS/20170001P00201A0118.wav	lao3 niu2 mang2 quan2 min2 ying1 xiong2 feng1 hao4 le ni3 bie2 yong4 gua4 le	老牛氓全民英雄封号了你别用挂了
+ST-CMDS-20170001_1-OS/20170001P00248I0055.wav	shi4 qu1 xun2 you2 pin3 pai2 xuan1 chuan2 quan2 jing3 tian1 chuang1	市区巡游品牌宣传全景天窗
+ST-CMDS-20170001_1-OS/20170001P00243I0046.wav	xuan1 zhun3 bei4 he2 ta1 ma1 hui2 huai2 hua4	轩准备和他妈回怀化
+ST-CMDS-20170001_1-OS/20170001P00002I0035.wav	dao4 di3 shi4 ji3 hao4 li3 qing1 lin2 huang2 xue3 wen2	到底是几号李青林黄雪雯
+ST-CMDS-20170001_1-OS/20170001P00367I0075.wav	wo3 zhen1 xin1 bu4 xiang3 re3 ni3	我真心不想惹你
+ST-CMDS-20170001_1-OS/20170001P00019A0067.wav	shu1 shu1 wo3 men bu4 yue1 ju2 zi dou1 gei3 ni3	叔叔我们不约橘子都给你
+ST-CMDS-20170001_1-OS/20170001P00359A0115.wav	ao4 lin2 gu4 ke4 ding1 xue3 hong2 lin2 ba1 ke4 cheng2	奥林顾客丁雪红淋巴课程
+ST-CMDS-20170001_1-OS/20170001P00326A0098.wav	liu4 shi2 san1 jun1 da4 yuan4 xiang4 mu4 nei4	六十三军大院项目内
+ST-CMDS-20170001_1-OS/20170001P00326I0038.wav	wo3 hu2 wen1 gei3 de shi4 yang2 xuan1 chu1 wen3	我胡温给的是杨轩初吻
+ST-CMDS-20170001_1-OS/20170001P00085I0111.wav	ken3 ding4 mei3 nian2 yi1 ci4 xun2 hui2 de	肯定每年一次巡回的
+ST-CMDS-20170001_1-OS/20170001P00201A0008.wav	lao3 liang2 mei2 jiao4 gao1 san1 wo3 he2 xue3 xue3 jin1 tian1 qu4 mai3 piao4	老梁没教高三我和雪雪今天去买票
+ST-CMDS-20170001_1-OS/20170001P00133I0068.wav	gao1 er3 fu1 qiu2	高尔夫球
+ST-CMDS-20170001_1-OS/20170001P00161A0021.wav	jiu4 wei4 le ni3 de yi1 ge4 wei1 xiao4 huo4 zhe3 yong1 bao4	就为了你的一个微笑或者拥抱
+ST-CMDS-20170001_1-OS/20170001P00028A0087.wav	jiu4 yue1 shang4 yun2 jie3 yi1 qi3 bei3 jing1 wan2 liang3 tian1	就约上云姐一起北京玩两天
+ST-CMDS-20170001_1-OS/20170001P00414A0074.wav	mo4 gen1 ge1 ge1 che3 xie1 wai1 ba1 zi	莫跟哥哥扯些歪巴子
+ST-CMDS-20170001_1-OS/20170001P00204A0108.wav	liu2 yi4 ni3 you2 xiang1 ji4 de2 wo3 men de yue1 ding4 zao3 dian3 shui4	留意你邮箱记得我们的约定早点睡
+ST-CMDS-20170001_1-OS/20170001P00342A0020.wav	qing3 yun2 xu3 wo3 zhe4 me jiao4 ni3 lai2 ke3	请允许我这么叫你来可
+ST-CMDS-20170001_1-OS/20170001P00378A0119.wav	shi1 xiong1 ni3 mei2 kan4 yu2 le4 bao4 dao4 ya1	师兄你没看娱乐报道呀
+ST-CMDS-20170001_1-OS/20170001P00356A0061.wav	mang2 guo3 xiong1 mei4 men2 kou3 jian4 shi4 zai4 na4 fu4 jin4 ba	芒果兄妹门口见是在那附近吧
+ST-CMDS-20170001_1-OS/20170001P00082A0043.wav	zhun3 bei4 si3 zai4 yong3 shi4 le	准备死在勇士了
+ST-CMDS-20170001_1-OS/20170001P00215A0061.wav	ni3 bi3 ren4 he2 shi2 hou4 de ni3 dou1 yao4 dan1 chun2 er2 yong3 gan3	你比任何时候的你都要单纯而勇敢
+ST-CMDS-20170001_1-OS/20170001P00302A0082.wav	lao3 po2 ni3 shuo1 ke3 yi3 mo1 xiong1 de xia4 mian4	老婆你说可以摸胸的下面
+ST-CMDS-20170001_1-OS/20170001P00065I0111.wav	yao4 bu4 yi1 lu4 ben3 lai2 yue1 le huang2 ping2 shi2 jian1 bu4 dui4	要不一路本来约了黄萍时间不对
+ST-CMDS-20170001_1-OS/20170001P00025I0088.wav	er2 qie3 wo3 mai3 de yong3 yi1 hao3 chou3	而且我买的泳衣好丑
+ST-CMDS-20170001_1-OS/20170001P00373A0105.wav	da4 jiang1 jun1 qu4 gei3 can1 ting1 gei3 zheng4 zhan1 ge4 zuo4	大将军去给餐厅给郑占个座
+ST-CMDS-20170001_1-OS/20170001P00298I0063.wav	bu2 shi4 wu3 xia2 zi1 shen1 ai4 hao3 zhe3	不是武侠资深爱好者
+ST-CMDS-20170001_1-OS/20170001P00256I0065.wav	dao4 shi2 hou4 kan4 kan4 neng2 bu4 neng2 ti2 qian2 yu4 yue1 chuang2 wei4 ba	到时候看看能不能提前预约床位吧
+ST-CMDS-20170001_1-OS/20170001P00089I0026.wav	ke3 bu4 ke3 yi3 qing3 wo3	可不可以请我
+ST-CMDS-20170001_1-OS/20170001P00162I0109.wav	biao1 de che1 you4 qian2 lun2 tai1 ji2 gang1 quan1 shou4 sun3	标的车右前轮胎及钢圈受损
+ST-CMDS-20170001_1-OS/20170001P00119A0007.wav	tou2 zhua1 zhu4 bei4 zi gun3 yi1 quan1	头抓住被子滚一圈
+ST-CMDS-20170001_1-OS/20170001P00178I0031.wav	xun2 qiu2 yi1 ge4 wen1 nuan3 de huai2 bao4	寻求一个温暖的怀抱
+ST-CMDS-20170001_1-OS/20170001P00082I0057.wav	ta1 hai2 wen4 qu4 qin2 huang2 dao3 ren2 jun1 san1 bai3 kuai4	她还问去秦皇岛人均三百块
+ST-CMDS-20170001_1-OS/20170001P00122I0054.wav	wo3 zhun3 bei4 zhang1 xing2 jun1 chuang2 guo4 ni3	我准备张行军床过你
+ST-CMDS-20170001_1-OS/20170001P00425A0053.wav	qun2 li3 mei3 nv3 yue1 hui4 gan4 ma ba3 wo3 dai4 shang4	群里美女约会干嘛把我带上
+ST-CMDS-20170001_1-OS/20170001P00019A0075.wav	bao4 xue3 dui4 feng1 bao4 ying1 xiong2 jiu4 shi4 chun2 yu2 le4 xiang4 you2 xi4	暴雪对风暴英雄就是纯娱乐向游戏
+ST-CMDS-20170001_1-OS/20170001P00245I0106.wav	shui4 wan2 le mei2 zhun3 qu4 you2 yong3 ne	睡完了没准去游泳呢
+ST-CMDS-20170001_1-OS/20170001P00351I0069.wav	wo3 hai2 te4 yi4 jian4 le yi1 ge4 han4 bing1 you2 yong3 qun2 ne	我还特意建了一个旱冰游泳群呢
+ST-CMDS-20170001_1-OS/20170001P00110I0051.wav	nv3 xing4 huan4 zhe3 zai4 zhi4 liao2 zhong1 huai2 yun4 zhe3	女性患者在治疗中怀孕者
+ST-CMDS-20170001_1-OS/20170001P00196A0099.wav	jiu4 qian2 ji3 tian1 wo3 he2 liu3 mei4 mo2 er3 you2 yong3 ni3 mei2 qu4	就前几天我和柳妹摩尔游泳你没去
+ST-CMDS-20170001_1-OS/20170001P00128A0062.wav	huang2 qun2 xia2 na4 ni3 dang1 chu1 wei4 shen2 me yao4 gen1 wo3	黄群霞那你当初为什么要跟我
+ST-CMDS-20170001_1-OS/20170001P00218A0056.wav	ni3 hua1 qian2 shou3 da4 bu4 da4 neng2 bu4 neng2 guo4 guan4 qiong2 ri4 zi	你花钱手大不大能不能过惯穷日子
+ST-CMDS-20170001_1-OS/20170001P00406A0085.wav	zhe4 ge4 hui2 da2 hen3 jiao3 hua2 ni3 mei2 you3 er4 xuan3 yi1	这个回答很狡猾你没有二选一
+ST-CMDS-20170001_1-OS/20170001P00170A0002.wav	wo3 zai4 hua2 dong1 tao2 ci2 pin3 shi4 chang2 xin1 shi2 dai4 guang3 chang2	我在华东陶瓷品市场新时代广场
+ST-CMDS-20170001_1-OS/20170001P00139I0089.wav	wo3 zuo4 chuang2 shang4 wan2 er2 you2 xi4	我坐床上玩儿游戏
+ST-CMDS-20170001_1-OS/20170001P00290A0038.wav	lin2 jin1 zen3 me hai2 bu4 xia4 xue3 a	临金怎么还不下雪啊
+ST-CMDS-20170001_1-OS/20170001P00230A0097.wav	zhang3 da4 hui4 shi4 da4 ling3 gao1 liang2 sui4 wei3 ba1 de gong1 zhu3 mao1	长大会是大领高粱穗尾巴的公主猫
+ST-CMDS-20170001_1-OS/20170001P00300I0046.wav	ye3 bu4 zhi1 dao4 kong1 jian1 li3 fa1 yuan4 de shi4 na3 zhi1 xiong2	也不知道空间里发怨的是哪只熊
+ST-CMDS-20170001_1-OS/20170001P00157I0015.wav	ni3 men zai4 qun2 li3 liao2 na4 qian2 mian4 xiong1	你们在群里聊那前面凶
+ST-CMDS-20170001_1-OS/20170001P00030I0098.wav	guai4 bu4 dei3 huai2 nian4 huang2 gong1	怪不得怀念皇宫
+ST-CMDS-20170001_1-OS/20170001P00152A0107.wav	mian4 shang4 yun3 xu3 xiao3 po4 chan3	面上允许小破产
+ST-CMDS-20170001_1-OS/20170001P00049I0099.wav	wo3 pang2 bian1 shi4 weng1 hong2 da2	我旁边是翁虹达
+ST-CMDS-20170001_1-OS/20170001P00287I0061.wav	jue2 bu4 yun2 xu3 nan2 zi hong2 peng4	决不允许男子触碰
+ST-CMDS-20170001_1-OS/20170001P00284A0003.wav	ru2 guo3 ni3 hai2 zai4 wei4 zhe4 shi4 geng3 geng3 yu2 huai2	如果你还在为这事耿耿于怀
+ST-CMDS-20170001_1-OS/20170001P00359A0015.wav	qu4 zheng4 fu3 ba huo4 zhe3 ya2 ke1 yi1 yuan4	去政府吧或者牙科医院
+ST-CMDS-20170001_1-OS/20170001P00269A0045.wav	ni3 jiu4 gan3 jin3 gei3 wo3 ci2 zhi2 zheng3 ge4 xi2 fu4	你就赶紧给我辞职整个媳妇
+ST-CMDS-20170001_1-OS/20170001P00385A0066.wav	yun2 xu3 ni3 chou4 mei3 da3 li3	允许你臭美打理
+ST-CMDS-20170001_1-OS/20170001P00211I0064.wav	bie2 ren2 liu2 xing2 de ci2 hui4 huo4 zhe3 yin3 hui4 de ci2 yu3	别人流行的词汇或者隐晦的词语
+ST-CMDS-20170001_1-OS/20170001P00127I0004.wav	wo3 yi1 ban1 he1 xiang1 yu4 huo4 zhe3 ning2 meng2	我一般喝香芋或者柠檬
+ST-CMDS-20170001_1-OS/20170001P00271A0043.wav	di4 er4 tian1 nv3 ren2 dou1 ai4 shua3 xiao3 pi2 qi4	第二天女人都爱耍小脾气
+ST-CMDS-20170001_1-OS/20170001P00220I0085.wav	na4 jiu4 deng3 wo3 gai4 zhu1 quan1 de shi2 hou4 zai4 zhao3 ni3	那就等我盖猪圈的时候再找你
+ST-CMDS-20170001_1-OS/20170001P00215A0015.wav	ni3 bu4 gan3 yun3 xu3 zi4 ji3 zuo4 zhao2 zi4 ji3 xi3 huan1 de shi4	你不敢允许自己做着自己喜欢的事
+ST-CMDS-20170001_1-OS/20170001P00093I0119.wav	wo3 jie4 gei3 wo3 xiong1 di4 de ka3	我借给我兄弟的卡
+ST-CMDS-20170001_1-OS/20170001P00424A0092.wav	li3 na4 he2 sha1 la1 bo1 wa2	李娜和莎拉波娃
+ST-CMDS-20170001_1-OS/20170001P00214I0118.wav	gong1 zi1 ye3 shuo1 gei3 wo3 shen1 qing3 de shi4 an1 yong3 zi1 xun2	工资也说给我申请的是安永咨询
+ST-CMDS-20170001_1-OS/20170001P00178A0079.wav	bu2 yao4 chong1 qi4 wa2 wa	不要充气娃娃
+ST-CMDS-20170001_1-OS/20170001P00082A0046.wav	wo3 fa1 xian4 zhe4 wei4 lao3 xiong1 shi4 bu2 shi4 gai1 qu4 yi1 yuan4 a	我发现这位老兄是不是该去医院啊
+ST-CMDS-20170001_1-OS/20170001P00369A0062.wav	wang3 xiong1 di4 qing2 qu4 yin3 dao3	往兄弟情去引导
+ST-CMDS-20170001_1-OS/20170001P00016I0085.wav	ni3 peng2 you3 quan1 zen3 me shen2 me dou1 mei2 you3	你朋友圈怎么什么都没有
+ST-CMDS-20170001_1-OS/20170001P00062I0043.wav	qi2 shi2 wo3 ting1 ri4 zhong1 wu3 yue1 zu3 ren2 qu4 chi1 fan4 ge2 bo	其实我听日中午约阻人去吃饭葛啵
+ST-CMDS-20170001_1-OS/20170001P00180A0005.wav	ren2 min2 ying1 xiong2 ji4 nian4 bei1 zhong1 nan2 hai3 qu4 le ma	人民英雄纪念碑中南海去了吗
+ST-CMDS-20170001_1-OS/20170001P00228A0083.wav	sha4 xiong2 mao1 yan3 de de qun2 li3 you3 lao3 shi1	啥熊猫眼的的群里有老师
+ST-CMDS-20170001_1-OS/20170001P00058A0066.wav	ni3 men dian4 na4 kuan3 wa2 wa qun2	你们店那款娃娃裙
+ST-CMDS-20170001_1-OS/20170001P00282A0112.wav	ran2 hou4 you4 ceng4 le er4 shi1 xiong1 yi1 dun4 kuai4 can1	然后又蹭了二师兄一顿快餐
+ST-CMDS-20170001_1-OS/20170001P00402I0023.wav	yang2 lang2 da4 jue2 zhan4 zhi1 da4 fu4 weng1	羊狼大绝战之大富翁
+ST-CMDS-20170001_1-OS/20170001P00175A0051.wav	shi4 jie4 shang4 de fu4 weng1 wang3 wang3 dou1 zou3 le na4 tiao2 shan1 lu4	世界上的富翁往往都走了那条山路
+ST-CMDS-20170001_1-OS/20170001P00383A0006.wav	hai2 shi4 ci2 xi1 ren2 hao3 zhe4 shi4 qi3 bu4 jia4 gun3 yuan3 ba	还是慈溪人好这是起步价滚远吧
+ST-CMDS-20170001_1-OS/20170001P00280A0029.wav	qu4 wo3 fang2 jian1 de na4 ge4 guo4 dao4 er2 guai3 jiao3 chu4	去我房间的那个过道儿拐角处
+ST-CMDS-20170001_1-OS/20170001P00422A0010.wav	ta1 ti2 le nai4 he2 nan2 dao4 bu4 yun2 xu3 wo3	他提了奈何难道不允许我
+ST-CMDS-20170001_1-OS/20170001P00433A0011.wav	er2 qie3 guo2 nei4 de jun1 xun4 shi2 zai4 tai4 wu2 liao2	而且国内的军训实在太无聊
+ST-CMDS-20170001_1-OS/20170001P00064A0058.wav	wei4 le you2 yong3 de ri4 zi	为了游泳的日子
+ST-CMDS-20170001_1-OS/20170001P00392A0109.wav	ni3 hai2 xiang3 you3 di4 er4 ge4 huo4 xuan1 yu3	你还想有第二个霍宣雨
+ST-CMDS-20170001_1-OS/20170001P00193I0008.wav	wo3 qi1 dai4 zhao2 zhe4 yang4 de bo1 li2 qun2	我期待着这样的玻璃群
+ST-CMDS-20170001_1-OS/20170001P00177A0117.wav	tuan2 zhang3 hai2 neng2 yun2 xu3 wo3 qu4 wu3 fang2 wan2 wan2 ma	团长还能允许我去舞房玩玩嘛
+ST-CMDS-20170001_1-OS/20170001P00004I0078.wav	dong4 jing3 shang1 dong1 jing1 shang4 ye3 ri4 ben3 xiong2 mao1	动景商东京上野日本熊猫
+ST-CMDS-20170001_1-OS/20170001P00399A0111.wav	dang1 ran2 bu4 neng2 mo1 jiu4 bu4 zai4 chuang2 shang4 pao3	当然不能摸就不在床上跑
+ST-CMDS-20170001_1-OS/20170001P00075I0007.wav	wo3 tui4 qun2 xiao3 xiong2 qi4 xiao1 le zai4 jin4 lai2	我退群小熊气消了再进来
+ST-CMDS-20170001_1-OS/20170001P00355I0002.wav	ni3 tou2 ding3 gai4 shang4 jiu4 xing2 cheng2 yi1 ge4 guang1 quan1 ba	你头顶盖上就形成一个光圈吧
+ST-CMDS-20170001_1-OS/20170001P00012A0004.wav	xi1 ban1 ya2 ye3 tao2 bu4 guo4 ni3 de mo2 zhua3	西班牙也逃不过你的魔爪
+ST-CMDS-20170001_1-OS/20170001P00164I0034.wav	tie1 ba hen3 duo1 ren2 shuo1 da4 xia2 pei4 yin1 bi3 huang2 da4 hao3	贴吧很多人说大侠配音比黄大好
+ST-CMDS-20170001_1-OS/20170001P00333I0049.wav	zhun3 bei4 le er2 wo4 de yi1 fu	准备了而卧的衣服
+ST-CMDS-20170001_1-OS/20170001P00403I0081.wav	gai1 huai2 yi2 xian1 dao3 fa2 bo1 wen2 guan3 sun3 huai4	该怀疑先导阀波纹管损坏
+ST-CMDS-20170001_1-OS/20170001P00086I0047.wav	wo3 men bu4 dui4 que1 re3 a	我们部队缺惹啊
+ST-CMDS-20170001_1-OS/20170001P00076I0106.wav	bo2 ai4 yi1 ri4 juan1 hua1 ming2	博爱一日捐花名
+ST-CMDS-20170001_1-OS/20170001P00368I0043.wav	ma3 shang4 ba3 qing2 kuang4 gen1 lao3 weng1 ta1 men fan3 ying4 yi1 xia4	马上把情况跟老翁他们反映一下
+ST-CMDS-20170001_1-OS/20170001P00385I0040.wav	qing3 yun2 xu3 wo3 ruo4 ruo4 di4 shu4 yi1 xia4 zhong1 zhi3	请允许我弱弱地竖一下中指
+ST-CMDS-20170001_1-OS/20170001P00119A0109.wav	liu2 jun1 ni3 dao4 cheng2 du1 zai4 xun2 wen4	刘军你到成都在询问
+ST-CMDS-20170001_1-OS/20170001P00062A0101.wav	feng4 jie3 ming2 zhi1 dao4 wo3 bu4 zen3 me shua3 qun2 de	凤姐明知道我不怎么耍群的
+ST-CMDS-20170001_1-OS/20170001P00226I0010.wav	chi2 dao4 zhe3 bu4 yun2 xu3 shang4 gong1	迟到者不允许上工
+ST-CMDS-20170001_1-OS/20170001P00353A0011.wav	wai4 mian4 mai3 de shi2 hou4 you3 shi2 hou4 shua1 ka3 ci2 xing4 shua1 bu4 shang4 qu4	外面买的时候有时候刷卡磁性刷不上去
+ST-CMDS-20170001_1-OS/20170001P00198A0007.wav	kai1 che1 de yong3 yuan3 bu4 dong3 shou3 tao4 dui4 wo3 men qi2 che1 ren2	开车的永远不懂手套对我们骑车人
+ST-CMDS-20170001_1-OS/20170001P00284A0034.wav	ru2 guo3 ni3 chi1 xiang1 wu3 che1 jin4 ba1 qi1 jiang1 jun1	如果你吃相五车进八七将军
+ST-CMDS-20170001_1-OS/20170001P00080A0039.wav	wo3 gang1 cai2 you1 ya3 de yi1 shuai3 tou2	我刚才优雅的一甩头
+ST-CMDS-20170001_1-OS/20170001P00120A0004.wav	beng4 beng4 da1 da1 de jiu4 yuan4 yi4 chu1 qu4 shua3	蹦蹦哒哒的就愿意出去耍
+ST-CMDS-20170001_1-OS/20170001P00381A0079.wav	na4 hai2 zai4 xia4 xue3 mei2 ma3 yun2 yun2	那还在下雪没马云云
+ST-CMDS-20170001_1-OS/20170001P00396I0100.wav	ni3 zhun3 bei4 bao4 shen2 me shi2 hou4 de you2 yong3 yue4 ka3 a	你准备报什么时候的游泳月卡啊
+ST-CMDS-20170001_1-OS/20170001P00272A0095.wav	wo3 mei2 you3 jun1 xun4 fu2 a yu2 le4 yu2 le4	我没有军训服啊娱乐娱乐
+ST-CMDS-20170001_1-OS/20170001P00126A0025.wav	wan2 you2 xi4 ka3 ye3 zhi3 you3 bu4 fen1 you2 xi4 you3 you1 hua4	玩游戏卡也只有部分游戏有优化
+ST-CMDS-20170001_1-OS/20170001P00091I0096.wav	gun3 dong4 zhou2 cheng2 run4 hua2	滚动轴承润滑
+ST-CMDS-20170001_1-OS/20170001P00190I0085.wav	jiu4 shi4 hui4 juan1 na4 ge4 yi1 yuan4	就是慧娟那个医院
+ST-CMDS-20170001_1-OS/20170001P00314I0016.wav	shao3 liang4 nian2 tu3 kuang4 wu4 qie3 fen1 bu4 ji2 bu4 jun1 yun2	少量粘土矿物且分布极不均匀
+ST-CMDS-20170001_1-OS/20170001P00394A0087.wav	shi4 a yin1 wei4 ta1 bu4 jing1 guo4 wo3 yun2 xu3 jiu4 yong4 wo3	是啊因为她不经过我允许就用我
+ST-CMDS-20170001_1-OS/20170001P00103I0043.wav	ru2 guo3 you3 huang2 xiao3 xiong2 pao3 dan1	如果有黄小熊跑单
+ST-CMDS-20170001_1-OS/20170001P00279A0078.wav	ni3 yao4 shi4 hui2 qu4 le wo3 jiu4 qu4 jun1 lin2 le	你要是回去了我就去君临了
+ST-CMDS-20170001_1-OS/20170001P00217I0011.wav	wo3 mai3 le yi1 tiao2 fen3 se4 bai2 bo1 dian3 de chang2 qun2	我买了一条粉色白波点的长裙
+ST-CMDS-20170001_1-OS/20170001P00188A0024.wav	hu2 nan2 ken3 ding4 hui4 xia4 xue3 la zhong1 yu2 hui2 lai2 shen1 zhen4 le	湖南肯定会下雪啦终于回来深圳了
+ST-CMDS-20170001_1-OS/20170001P00073A0104.wav	yang2 guang1 yi1 zu2 huang2 po1 qu1	阳光一族黄坡区
+ST-CMDS-20170001_1-OS/20170001P00372I0108.wav	bian4 si4 chu4 xun2 zhao3 ta1 xiang3 yao4 de chong1 lang4 hua2 ban3	便四处寻找他想要的冲浪滑板
+ST-CMDS-20170001_1-OS/20170001P00230A0039.wav	gao1 pin2 ci2 a qi2 ta1 lan3 de2 bei4 le	高频词啊其他懒得背了
+ST-CMDS-20170001_1-OS/20170001P00177A0100.wav	ni3 hao3 mei2 shang4 ban1 ma ni3 lao3 jia1 na3 de	你好没上班吗你老家哪的
+ST-CMDS-20170001_1-OS/20170001P00395A0061.wav	shuo1 chu1 lai2 ye3 hui4 shi4 huai2 dian3 er2 yi1 dui1 wang3 yi4 dong1 xi1 ne	说出来也会释怀点儿一堆网易东西呢
+ST-CMDS-20170001_1-OS/20170001P00415A0079.wav	mo4 xie3 qian4 le yi1 da4 dui1 gai4 ci2 bi3	默写欠了一大堆盖茨比
+ST-CMDS-20170001_1-OS/20170001P00074A0097.wav	di4 san1 zhe3 zai4 na4 ge4 shang4 mian4 tang3 zhao2 ne	第三者在那个上面躺着呢
+ST-CMDS-20170001_1-OS/20170001P00235I0089.wav	ta1 yao4 wo3 qu4 huang2 shan1 na4 li3 pao3 yi1 quan1 shi4 shi4 kan4	他要我去黄山那里跑一圈试试看
+ST-CMDS-20170001_1-OS/20170001P00132A0079.wav	chao1 ji2 ying1 xiong2 lian2 meng2 fu4 chou2 zhe3 di4 er4 ji4	超级英雄联盟复仇者第二季
+ST-CMDS-20170001_1-OS/20170001P00038I0035.wav	lu4 wa2 ni3 zhun3 bei4 chong1 duo1 shao3	路娃你准备冲多少
+ST-CMDS-20170001_1-OS/20170001P00393I0050.wav	zui4 jin4 zhun3 bei4 xue2 xi2 you2 yong3 qu4	最近准备学习游泳去
+ST-CMDS-20170001_1-OS/20170001P00225A0086.wav	nin2 bu4 shi4 shuo1 wo3 jie3 jie shi4 nin2 zui4 hao3 de xiong1 di4 me	您不是说我姐姐是您最好的兄弟么
+ST-CMDS-20170001_1-OS/20170001P00144A0106.wav	bu4 neng2 you3 bu4 wen2 ya3 de ci2 yu3	不能有不文雅的词语
+ST-CMDS-20170001_1-OS/20170001P00150A0112.wav	wo3 zhi3 hui4 shun4 zhao2 bie2 ren2 de jie2 zou4 an1 pai2	我只会顺着别人的节奏安排
+ST-CMDS-20170001_1-OS/20170001P00159I0051.wav	huang2 shou3 juan1 ma3 shang4 hui2 wu3 han4 fu4 xi2 kao3 yan2	黄守娟马上回武汉复习考研
+ST-CMDS-20170001_1-OS/20170001P00419A0063.wav	ba3 wo3 dang1 xiong1 di4 jiu4 qu4 kong1 jian1 yi1 er4 tiao2 dou1 zhuan3 fa1	把我当兄弟就去空间一二条都转发
+ST-CMDS-20170001_1-OS/20170001P00303I0106.wav	wo3 zhi1 dao4 wo3 you4 re3 ni3 bu4 kai1 xin1 le	我知道我又惹你不开心了
+ST-CMDS-20170001_1-OS/20170001P00195A0022.wav	jin4 da4 men2 you4 guai3 dao3 shu4 di4 er4 ge4 lou2 shi4 jiu3 hao4 lou2	进大门右拐倒数第二个楼是九号楼
+ST-CMDS-20170001_1-OS/20170001P00304A0011.wav	li3 zheng4 xin4 shi1 xiong1 wo3 fa1 xian4 nin2 tai4 du4	李正信师兄我发现您态度
+ST-CMDS-20170001_1-OS/20170001P00238I0113.wav	wo3 zhi1 dao4 ni3 jiu4 shi4 xia1 che3 dan4 de	我知道你就是瞎扯淡的
+ST-CMDS-20170001_1-OS/20170001P00395I0007.wav	dou1 shi4 yi1 qun2 ke3 lian2 de wa2 a	都是一群可怜的娃啊
+ST-CMDS-20170001_1-OS/20170001P00333A0039.wav	mo4 che3 shang4 jia1 ge1 ma jiu4 shi4 ni3 zi4 ji3 xiang3 he2	莫扯上佳哥嘛就是你自己想和
+ST-CMDS-20170001_1-OS/20170001P00062I0018.wav	jiu4 wen4 yi1 xia4 huang2 qiao3 jun1 zen3 me zuo4 che1 qu4	就问一下黄巧君怎么坐车去
+ST-CMDS-20170001_1-OS/20170001P00098I0083.wav	a1 huang2 he2 dan1 jie3 xia4 qu4 shuo1 wo3 you3 yue1 yao4 dai4 shang4 ta1 men	阿黄和丹姐下去说我有约要带上她们
+ST-CMDS-20170001_1-OS/20170001P00239A0077.wav	zhun3 bei4 ge4 bing1 gui4 ba you3 guo4 qi1 de	准备个冰柜吧有过期的
+ST-CMDS-20170001_1-OS/20170001P00393I0086.wav	na4 ge4 xiang4 shi4 qun2 xuan1 chuan2	那个像是群宣传
+ST-CMDS-20170001_1-OS/20170001P00167I0008.wav	ri4 jun1 liu2 lan3 liang4 you3 duo1 shao3	日均浏览量有多少
+ST-CMDS-20170001_1-OS/20170001P00107A0042.wav	ni3 yue4 jing1 bu4 zhun3 hai2 zhe4 me rong2 yi4 huai2 yun4	你月经不准还这么容易怀孕
+ST-CMDS-20170001_1-OS/20170001P00159A0081.wav	zhun3 bei4 chu1 xin1 ying1 xiong2 le	准备出新英雄了
+ST-CMDS-20170001_1-OS/20170001P00006I0064.wav	guo2 xiao3 jin1 ri4 you4 zou3 qu4 ci2 gong1	国晓今日又走去辞工
+ST-CMDS-20170001_1-OS/20170001P00229I0021.wav	ta1 de xin1 li3 mian4 yi1 zhi2 dou1 hai2 you3 huang2 xue3	他的心里面一直都还有黄雪
+ST-CMDS-20170001_1-OS/20170001P00135I0052.wav	weng4 an1 di4 tu2 shang4 ni3 zhao3 bu4 dao4 de	瓮安地图上你找不到的
+ST-CMDS-20170001_1-OS/20170001P00160I0034.wav	shou3 jia1 xin1 sheng1 er2 you2 yong3 fu3 hong2 shi4 zai4 yi1 yuan4 luo4 cheng2	首家新生儿游泳抚触室在医院落成
+ST-CMDS-20170001_1-OS/20170001P00408I0053.wav	na4 ni3 qu4 yao2 gun3 de hua4 qi3 bu4 shi4 geng4 yao4 que1 yang3 la	那你去摇滚的话岂不是更要缺氧啦
+ST-CMDS-20170001_1-OS/20170001P00391I0114.wav	shui2 you3 quan2 jun1 tong3 chou2 de yi1 yuan4 ming2 dan1	谁有全军统筹的医院名单
+ST-CMDS-20170001_1-OS/20170001P00024I0056.wav	bu4 zao4 ren2 me ge1 ci2 bu4 shi4 li3 ke4 qin2 de ma e2	不造人么歌词不是李克勤的吗哦
+ST-CMDS-20170001_1-OS/20170001P00277A0029.wav	na4 wa2 ha1 ha1 chou4 wen2 zi dou1 bei4 xun1 yun1 le	那娃哈哈臭蚊子都被熏晕了
+ST-CMDS-20170001_1-OS/20170001P00356I0020.wav	ni3 ye3 lai2 wan2 xuan4 wu3 san1	你也来玩炫舞三
+ST-CMDS-20170001_1-OS/20170001P00021I0073.wav	huan1 ying2 qiu1 yi4 nong2 xue3 er2 jin4 qun2	欢迎秋意浓雪儿进群
+ST-CMDS-20170001_1-OS/20170001P00076A0027.wav	dou1 dao4 ma3 tou2 le huang2 hua2 gang3	都到码头了黄骅港
+ST-CMDS-20170001_1-OS/20170001P00148I0091.wav	wo3 zhe4 li3 you3 jun1 xun4 de zhao4 pian4 lao3 po2 kan4 bu4	我这里有军训的照片老婆看不
+ST-CMDS-20170001_1-OS/20170001P00153A0033.wav	e2 luo1 si1 nv3 shi4 shou3 biao3 e2 luo1 si1 jun1 yong4 miao2 zhun3 jing4	俄罗斯女式手表俄罗斯军用瞄准镜
+ST-CMDS-20170001_1-OS/20170001P00163I0008.wav	huang2 jin1 xian4 huo4 de he2 yue1 dan1 wei4	黄金现货的合约单位
+ST-CMDS-20170001_1-OS/20170001P00354A0014.wav	mei3 nv3 gen1 ma1 ma1 dou1 shi4 yun2 nan2	美女跟妈妈都是云南
+ST-CMDS-20170001_1-OS/20170001P00146I0081.wav	wo3 zai4 wo3 men yuan4 zi li3 kan4 le yi1 quan1 bei4 bei4 zui4 hao3	我在我们院子里看了一圈贝贝最好
+ST-CMDS-20170001_1-OS/20170001P00434A0071.wav	fan3 zheng4 zui4 jin4 gei3 ta1 jiao1 liu2 you3 dai4 gou1	反正最近给他交流有代沟
+ST-CMDS-20170001_1-OS/20170001P00426A0080.wav	lian4 che1 na4 li3 shua3 shun4 bian4 jiao4 xue2 yuan4	练车那里耍顺便教学院
+ST-CMDS-20170001_1-OS/20170001P00366A0058.wav	gao1 te4 bu4 yun2 xu3 zhan4 ren2	高特不允许站人
+ST-CMDS-20170001_1-OS/20170001P00181A0103.wav	ha1 ha1 xue1 hai2 zai4 wai4 mian4 ne he2 tong2 shi4 he1 dian3 er2 xiao3 jiu3	哈哈薛还在外面呢和同事喝点儿小酒
+ST-CMDS-20170001_1-OS/20170001P00242I0095.wav	tian1 jin1 da4 xue2 jun1 shi4 jiao1 tong1 xue2 yuan4	天津大学军事交通学院
+ST-CMDS-20170001_1-OS/20170001P00107I0094.wav	wo3 men gong1 si1 de tong2 shi4 zhun3 bei4 sheng1 di4 er4 tai1 le	我们公司的同事准备生第二胎了
+ST-CMDS-20170001_1-OS/20170001P00299A0032.wav	wo3 ban1 de xiong2 er4 shai4 ta1 nan2 peng2 you3 de zhao4 pian4	我班的熊二晒她男朋友的照片
+ST-CMDS-20170001_1-OS/20170001P00282A0088.wav	rang4 ni3 chi1 xue3 dao4 jia1 le jin1 tian1 fei1 shen3 yang2	让你吃雪到家了今天飞沈阳
+ST-CMDS-20170001_1-OS/20170001P00304A0008.wav	li4 jiang1 yue1 pao4 zhi1 lv3 ti2 shang4 xing2 cheng2 kuai4	丽江约炮之旅提上行程快
+ST-CMDS-20170001_1-OS/20170001P00289A0084.wav	ni3 ji4 bu4 ji4 de2 wang2 cun1 xue3 gei3 ni3 de	你记不记得王村雪给你的
+ST-CMDS-20170001_1-OS/20170001P00139I0009.wav	ni3 tang2 er2 huang2 zhi1 de dai4 shang4 ni3 de dong1 xi1 zou3	你堂而皇之的带上你的东西走
+ST-CMDS-20170001_1-OS/20170001P00289A0053.wav	wo3 ye3 bu4 zhi1 dao4 tong1 zhi1 xia4 wang2 lin2 xuan1 ba	我也不知道通知下王琳宣吧
+ST-CMDS-20170001_1-OS/20170001P00141I0079.wav	tuan2 jie2 yi1 zhi4 ban4 hao3 qun2 zhong4 yong1 hu4 de shi2 shi4 hao3 shi4	团结一致办好群众拥护的实事好事
+ST-CMDS-20170001_1-OS/20170001P00138I0033.wav	ya4 ka3 ba1 quan2 jian1 di2 jun1 yi1 ge4 ban4 man3 bian1	亚卡巴全歼敌军一个半满编
+ST-CMDS-20170001_1-OS/20170001P00318A0066.wav	ni3 qu4 quan1 yuan2 cun1 zi4 ji3 zhu4 yi4 an1 quan2	你去圈员村自己注意安全
+ST-CMDS-20170001_1-OS/20170001P00263I0088.wav	ri4 jun1 you3 xiao4 bao4 an4 liang4	日均有效报案量
+ST-CMDS-20170001_1-OS/20170001P00226I0083.wav	wo3 ai4 ni3 wen3 ni3 hao3 xiang3 ni3 juan1 er2	我爱你吻你好想你娟儿
+ST-CMDS-20170001_1-OS/20170001P00094I0101.wav	jin1 tian1 wo3 gan4 xiong1 di4 guo4 sheng1 ri4	今天我干兄弟过生日
+ST-CMDS-20170001_1-OS/20170001P00039A0108.wav	wo3 zhe4 ge4 fen1 shu4 cai2 che3 le ne	我这个分数才扯了呢
+ST-CMDS-20170001_1-OS/20170001P00103I0045.wav	gu1 ji4 shi4 qian1 wan4 fu4 weng1 a	估计是千万富翁啊
+ST-CMDS-20170001_1-OS/20170001P00379I0055.wav	hou2 zi yao4 qu4 zhong1 xin1 guang3 chang2 wan2 er2	猴子要去中心广场玩儿
+ST-CMDS-20170001_1-OS/20170001P00412A0037.wav	yin1 wei4 nv3 sheng1 xiao3 shi2 hou4 wan2 yang2 wa2 wa bi3 jiao4 duo1	因为女生小时候玩洋娃娃比较多
+ST-CMDS-20170001_1-OS/20170001P00143I0092.wav	wo3 mei2 bang1 xiao3 weng1 jiao4 e2	我没帮小翁叫哦
+ST-CMDS-20170001_1-OS/20170001P00252A0113.wav	gei3 tui1 jian4 xia4 wo3 zai4 nan2 fang1 he2 nan2 qiong2 xiang1 pi4 ye3	给推荐下我在南方河南穷乡僻野
+ST-CMDS-20170001_1-OS/20170001P00319I0114.wav	cong2 chuang2 shang4 pu1 shuai4 shuai1 shuai1 shi4 a	从床上铺帅摔摔是啊
+ST-CMDS-20170001_1-OS/20170001P00425A0007.wav	ni3 pei4 he2 ta1 jiu4 xing2	你配合她就行
+ST-CMDS-20170001_1-OS/20170001P00278I0038.wav	jing4 zhong1 de a1 shan3 zhuo1 yi1 shen1 xue3 bai2 sha1 qun2	镜中的阿闪卓一身雪白纱裙
+ST-CMDS-20170001_1-OS/20170001P00042I0086.wav	dan4 xiao3 min3 min3 hua4 ru2 guo3 huang2 gui4 yong3 jiu4 xi4	但小敏敏话如果黄贵勇就系
+ST-CMDS-20170001_1-OS/20170001P00028A0016.wav	sheng1 yin1 ya3 de2 you3 ci2 xing4 hei1 de	声音哑得有磁性嘿的
+ST-CMDS-20170001_1-OS/20170001P00326A0051.wav	wan2 quan2 shuai1 dong1 ri4 na4 ji3 tiao2 lian3 jiu4 xiang3 cai3 ji3 jiao3 dong1	完全摔冬日娜几条脸就想踩几脚冬
+ST-CMDS-20170001_1-OS/20170001P00101A0084.wav	wo3 mei2 qian2 a qiong2 de zhun3 bei4 chi1 xi2 lai2 le	我没钱啊穷的准备吃席来了
+ST-CMDS-20170001_1-OS/20170001P00241A0015.wav	guang3 xin4 jun1 da2 lao3 zong3 ta1 shi4 ting3 re4 qing2 de	广信军达老总他是挺热情的
+ST-CMDS-20170001_1-OS/20170001P00023A0047.wav	huo4 zhe3 shi4 gen1 ben3 bu4 na2 wo3 dang1 xiong1 di4 hao3 ma	或者是根本不拿我当兄弟好嘛
+ST-CMDS-20170001_1-OS/20170001P00164A0084.wav	wo3 huai2 yun4 hou4 xi1 gai4 qian2 hou4 yang3 yang3 de bu4 xing2 le	我怀孕后膝盖前后痒痒的不行了
+ST-CMDS-20170001_1-OS/20170001P00360I0004.wav	bu4 quan4 ta1 hao3 hao3 xue2 xi2 hai2 song3 yong3 ta1 wan2 er2	不劝她好好学习还怂恿她玩儿
+ST-CMDS-20170001_1-OS/20170001P00381I0096.wav	pang4 zi shuo1 wo3 men jie2 hun1 ta1 jiu4 gen1 wo3 men xing4	胖子说我们结婚他就跟我们姓
+ST-CMDS-20170001_1-OS/20170001P00310I0021.wav	wo3 men qun2 li3 na3 ge4 zai4 wan2 er2	我们群里哪个在玩儿
+ST-CMDS-20170001_1-OS/20170001P00184A0037.wav	wan3 shang4 he2 li4 min3 ta1 men yue1 hui4	晚上和丽敏她们约会
+ST-CMDS-20170001_1-OS/20170001P00212A0074.wav	na4 wo3 xian1 xie4 le a luo1 jian4 de2 li3 yun2 jun1 shang4 ban1 le	那我先谢了啊罗建德李云军上班了
+ST-CMDS-20170001_1-OS/20170001P00362A0077.wav	shi4 jing3 ti4 zhe4 ge4 ci2 shi4 wang3 luo4 ci2	是警惕这个词是网络词
+ST-CMDS-20170001_1-OS/20170001P00157A0105.wav	bu4 hao3 ba2 hai2 yao4 ba3 ya2 chuang2 qie1 kai1	不好拔还要把牙床切开
+ST-CMDS-20170001_1-OS/20170001P00166I0004.wav	tu2 an1 weng1 de ren2 cai2 hui4 liu2	图安翁的人才会留
+ST-CMDS-20170001_1-OS/20170001P00375A0042.wav	qing1 bai2 hui3 diao4 jiao4 shui3 wa2 hui3 le	清白毁掉叫水娃毁了
+ST-CMDS-20170001_1-OS/20170001P00002I0013.wav	jing3 wei4 lian2 ban1 zhang3 ri4 chang2 jun1 dui4 gong1 zuo4 yi4 wu4 bing1	警卫连班长日常军队工作义务兵
+ST-CMDS-20170001_1-OS/20170001P00081I0053.wav	tang3 zai4 chuang2 shang4 bei4 dan1 ci2	躺在床上背单词
+ST-CMDS-20170001_1-OS/20170001P00130I0075.wav	wu3 yuan4 dui4 mian4 de you2 yong3 guan3	五院对面的游泳馆
+ST-CMDS-20170001_1-OS/20170001P00022I0037.wav	rong2 qiao2 you2 yong3 chi2 nian2 ka3	融侨游泳池年卡
+ST-CMDS-20170001_1-OS/20170001P00045I0052.wav	jian3 yue1 de tiao2 wen2 qun2 zi	简约的条纹裙子
+ST-CMDS-20170001_1-OS/20170001P00347I0117.wav	zi1 bo2 ri4 yong4 ci2 chang3 jia1	淄博日用瓷厂家
+ST-CMDS-20170001_1-OS/20170001P00177I0086.wav	wo3 men de juan1 kuan3 pai2 qing3 zuo4 cheng2 hong2 di3 huang2 zi4 de	我们的捐款牌请做成红底黄字的
+ST-CMDS-20170001_1-OS/20170001P00067A0009.wav	gei3 yu2 gang1 huan4 shui3 ne huai2 yun4 le bu4 gan4 huo2	给鱼缸换水呢怀孕了不干活
+ST-CMDS-20170001_1-OS/20170001P00101I0104.wav	wo3 men gai1 nong4 ge4 er4 qun2	我们该弄个二群
+ST-CMDS-20170001_1-OS/20170001P00402A0053.wav	wai4 po2 sheng1 ri4 jia1 li3 ren2 que1 shao3 le wo3 ta1 bu4 kai1 xin1	外婆生日家里人缺少了我他不开心
+ST-CMDS-20170001_1-OS/20170001P00382I0056.wav	piao4 zi yun3 xu3 de qing2 kuang4 xia4 xiang3 huan4 jiu4 huan4	票子允许的情况下想换就换
+ST-CMDS-20170001_1-OS/20170001P00197I0042.wav	huai2 an1 feng4 huang2 guo2 lv3 cui1 zong3	淮安凤凰国旅崔总
+ST-CMDS-20170001_1-OS/20170001P00151A0119.wav	wo3 yi1 jiang3 hua4 ye3 weng1 weng1 weng1 de sheng1 yin1	我一讲话也嗡嗡嗡的声音
+ST-CMDS-20170001_1-OS/20170001P00176I0117.wav	wo3 kao4 yao4 gai4 zhang1 hai2 dei3 xie3 bao4 gao4 hai2 yao4 da2 bian4 a	我靠要盖章还得写报告还要答辩啊
+ST-CMDS-20170001_1-OS/20170001P00053I0061.wav	wo3 ta4 ri4 qu1 de jun1 hun2	我踏日区的军魂
+ST-CMDS-20170001_1-OS/20170001P00338A0023.wav	wo3 de xin1 xiong1 mei2 na4 me kuan1 da4	我的心胸没那么宽大
+ST-CMDS-20170001_1-OS/20170001P00095A0004.wav	li4 shi3 ri4 zhi4 jun1 hui4 bei4 ya1 suo1 bao1 cun1	历史日志均会被压缩包村
+ST-CMDS-20170001_1-OS/20170001P00241A0114.wav	bu4 zhun3 shua3 lai4 e2 ni3 zi4 ji3 shuo1 de bu4 hui4	不准耍赖哦你自己说的不会
+ST-CMDS-20170001_1-OS/20170001P00144I0076.wav	wo3 kan4 ren2 jia1 hen3 duo1 qun2 dou1 you3 gu1 gu1	我看人家很多群都有呱呱
+ST-CMDS-20170001_1-OS/20170001P00036A0096.wav	wo3 te4 huai2 yi2 ta1 shi4 huang2 yu3 cong1	我特怀疑他是黄宇聪
+ST-CMDS-20170001_1-OS/20170001P00018I0070.wav	gao1 kao3 wan2 le zai4 man4 man4 qu4 shua3 jiang1 ba	高考完了再慢慢去耍江吧
+ST-CMDS-20170001_1-OS/20170001P00084A0103.wav	shuo1 ming2 wo3 cuo4 ci2 zhun3 que4	说明我措辞准确
+ST-CMDS-20170001_1-OS/20170001P00385A0020.wav	jiu4 chu1 xian4 ying1 xiong2 de ji4 cheng2 zhe3	就出现英雄的继承者
+ST-CMDS-20170001_1-OS/20170001P00399I0014.wav	jia3 wu3 zhan4 zheng1 ri4 jun1 xu4 lie4	甲午战争日军序列
+ST-CMDS-20170001_1-OS/20170001P00137A0047.wav	yuan4 jia1 na4 mi3 she2 you2 jing1	媛佳纳米蛇油精
+ST-CMDS-20170001_1-OS/20170001P00393I0030.wav	gun3 hui2 ni3 de zhua3 wa1 xing1 qiu2 qu4	滚回你的爪哇星球去
+ST-CMDS-20170001_1-OS/20170001P00103A0011.wav	wo3 yi1 kai1 shi3 xiang3 huan4 huang2 gai4 de	我一开始想换黄盖的
+ST-CMDS-20170001_1-OS/20170001P00383A0030.wav	yun2 xu3 wo3 zuo4 ge4 bei1 shang1 de biao3 qing2	允许我做个悲伤的表情
+ST-CMDS-20170001_1-OS/20170001P00083I0075.wav	yang2 ya4 hui1 he2 chen2 rong2 jun1 de fen1 hong2 ka3	杨亚辉和陈荣军的分红卡
+ST-CMDS-20170001_1-OS/20170001P00299I0017.wav	zhu4 xiao1 de lai2 hua4 ri4 jun1 xia4 jiang4	注销的来话日均下降
+ST-CMDS-20170001_1-OS/20170001P00277I0071.wav	hua2 kuai4 yu3 shui3 ping2 qing1 zhi2 dan4 huang2 de yi1 duan1 xiang1 lian2	滑块与水平轻质弹簧的一端相连
+ST-CMDS-20170001_1-OS/20170001P00128I0006.wav	nei4 meng2 gu3 chi4 feng1 shi4 weng1 niu2 te4 qi2 you2 zheng4 bian1 ma3	内蒙古赤峰市翁牛特旗邮政编码
+ST-CMDS-20170001_1-OS/20170001P00256I0009.wav	ni3 tai4 qian1 xu1 le wo3 zai4 gen1 wo3 ge1 che3 gua3	你太谦虚了我在跟我哥扯寡
+ST-CMDS-20170001_1-OS/20170001P00166I0069.wav	jin1 ri4 you4 qu4 yue1 hui4 a	今日又去约会啊
+ST-CMDS-20170001_1-OS/20170001P00226A0013.wav	neng2 bu4 neng2 gei3 wo3 yi1 ge4 wen1 nuan3 de yong1 bao4	能不能给我一个温暖的拥抱
+ST-CMDS-20170001_1-OS/20170001P00080A0057.wav	qu4 yun2 nan2 yu4 long2 xue3 shan1 de zhu4 yi4 shi4 xiang4	去云南玉龙雪山的注意事项
+ST-CMDS-20170001_1-OS/20170001P00236I0039.wav	ri4 fan4 jiu4 bu4 neng2 cheng2 quan1	日饭就不能成圈
+ST-CMDS-20170001_1-OS/20170001P00068A0041.wav	ma2 bi3 dou1 zao1 ri4 ge4 leng2 ge4 yong3 zhong3 ha1 ha1 ha1	麻比都遭日个楞个臃肿哈哈哈
+ST-CMDS-20170001_1-OS/20170001P00202A0094.wav	li3 yu3 xuan1 shi4 bu2 shi4 yu2 wen2 ke1 yu2 wen2 ke1 xi3 huan1 shui2	李雨萱是不是俞文科俞文科喜欢谁
+ST-CMDS-20170001_1-OS/20170001P00215A0070.wav	ni3 cai2 shi4 xiao3 yin2 wa2 ne wo3 ma1 zhe4 ji3 tian1 qu4 he2 fei2	你才是小淫娃呢我妈这几天去合肥
+ST-CMDS-20170001_1-OS/20170001P00253I0107.wav	huang2 jian4 yong3 jia1 you3 tian1 de dan1 zi3 mei2 gei3 wo3	黄建勇家有天的单子没给我
+ST-CMDS-20170001_1-OS/20170001P00024A0046.wav	xian4 zai4 ta1 ye3 bu4 yuan4 yi4 wo3 ci2 zhi2 le	现在他也不愿意我辞职了
+ST-CMDS-20170001_1-OS/20170001P00299A0075.wav	kuang2 feng1 lang4 die2 qiong2 zhui1 bu4 she3	狂蜂浪蝶穷追不舍
+ST-CMDS-20170001_1-OS/20170001P00295I0035.wav	en1 dao4 yuan4 ti2 shi4 nin2 wang3 shang4 yu4 yue1 de	恩道院提示您网上预约的
+ST-CMDS-20170001_1-OS/20170001P00374A0068.wav	nao3 dai4 weng1 weng1 de shang4 cheng2 qiang2 xian1 bie2 dong4	脑袋嗡嗡的上城墙先别动
+ST-CMDS-20170001_1-OS/20170001P00412A0094.wav	fan3 yi4 ci2 bu4 xiang3 bao1 yi4 ci2 na4 huang2 dao4 qiang2 di1	反义词不想褒义词那黄道强滴
+ST-CMDS-20170001_1-OS/20170001P00208I0019.wav	xian4 zai4 lao3 po2 dou1 huai2 yi2	现在老婆都怀疑
+ST-CMDS-20170001_1-OS/20170001P00185A0002.wav	wo3 jiu4 xiang3 zhi1 dao4 qi2 zhong1 you3 mei2 you3 ta1 er2 yi3	我就想知道其中有没有他而已
+ST-CMDS-20170001_1-OS/20170001P00169A0095.wav	gang1 cai2 da3 xue3 zhang4 qu4 le xian4 zai4 chi1 kou3 fan4 xie1 yi1 hui4 er2	刚才打雪仗去了现在吃口饭歇一会儿
+ST-CMDS-20170001_1-OS/20170001P00271I0065.wav	ni3 ren4 wei4 you3 ren2 hui4 yuan4 yi4 yong4 ma	你认为有人会愿意用吗
+ST-CMDS-20170001_1-OS/20170001P00287A0102.wav	lao3 xiong1 wo3 xian4 zai4 shang4 ni3 de wang3 pan2	老兄我现在上你的网盘
+ST-CMDS-20170001_1-OS/20170001P00126I0063.wav	shui2 you3 quan2 jun1 tong3 chou2 de yi1 yuan4 ming2 dan1	谁有全军统筹的医院名单
+ST-CMDS-20170001_1-OS/20170001P00218I0018.wav	wo3 zhen1 de shi4 pa4 gei3 ni3 re3 ma2 fan2	我真的是怕给你惹麻烦
+ST-CMDS-20170001_1-OS/20170001P00048A0007.wav	hao3 huai2 nian4 zhe4 xie1 ri4 zi	好怀念这些日子
+ST-CMDS-20170001_1-OS/20170001P00390A0091.wav	ni3 shi4 shi2 yang4 shuai1 a me ni3 du2 dao4 chu1 san1	你事实样衰啊么你读到初三
+ST-CMDS-20170001_1-OS/20170001P00129A0077.wav	wo3 zhou1 mo4 feng1 kuang2 mi2 shang4 xuan1 yuan2 jian4 le	我周末疯狂迷上轩辕剑了
+ST-CMDS-20170001_1-OS/20170001P00115I0001.wav	na4 ge4 xiao3 xiong2 bi3 ri4 ben3 er2 de shi4 tai4 gui4 le	那个小熊笔日本儿的是太贵了
+ST-CMDS-20170001_1-OS/20170001P00039I0103.wav	ni3 you3 kong1 de hua4 qu4 bei3 yi1 huo4 zhe3 bei3 er4 wan2 er2 wan2 er2	你有空的话去北一或者北二玩儿玩儿
+ST-CMDS-20170001_1-OS/20170001P00278A0003.wav	ni3 de xiang1 ji1 bi3 wo3 men de hao3 tai4 duo1 le	你的相机比我们的好太多了
+ST-CMDS-20170001_1-OS/20170001P00092A0068.wav	da4 xiao3 jun1 yun2 ren2 bu4 gao4 su4 ni3	大小均匀人不告诉你
+ST-CMDS-20170001_1-OS/20170001P00160A0119.wav	ni3 yi3 wei4 wo3 shi4 fu4 weng1 ma da4 mi3 zhe4 ge4 jiu4 hao3	你以为我是富翁吗大米这个就好
+ST-CMDS-20170001_1-OS/20170001P00158I0069.wav	fo2 lan2 xue3 ya1 xiang1 yi2 ben3 cao3 shao2 yao4	佛兰雪鸭相宜本草芍药
+ST-CMDS-20170001_1-OS/20170001P00076A0082.wav	ge1 zhun3 bei4 hao3 dao4 guang3 da4 lun4 tan2 chang4 shuai1 ni3 men	哥准备好到广大论坛唱衰你们
+ST-CMDS-20170001_1-OS/20170001P00010I0106.wav	ni3 wen4 xiong1 di4 wan2 xun2 xian1 ma	你问兄弟玩寻仙吗
+ST-CMDS-20170001_1-OS/20170001P00093I0053.wav	yi4 ming2 fa3 zhi4 xuan1 chuan2 zhi4 yuan4 zhe3	一名法制宣传志愿者
+ST-CMDS-20170001_1-OS/20170001P00412A0082.wav	ta1 men shen2 me shi2 hou4 qu3 xiao1 yun3 er2	他们什么时候取消允儿
+ST-CMDS-20170001_1-OS/20170001P00410I0116.wav	jiu4 shi4 ou3 er3 you2 yong3 he2 tiao4 wu3 yuan4 li3 qu4 nian2 fa1 de	就是偶尔游泳和跳舞院里去年发的
+ST-CMDS-20170001_1-OS/20170001P00218A0068.wav	ni3 jue2 de2 ni3 lao3 biao3 shi4 bai3 wan4 fu4 weng1 you3 yi4 yi4 ma	你觉得你老表是百万富翁有意义吗
+ST-CMDS-20170001_1-OS/20170001P00074I0007.wav	huang2 yong3 chao1 zhe4 li3 za3 mei2 ge4 zheng4 chang2 dian3 de	黄永超这里咋没个正常点的
+ST-CMDS-20170001_1-OS/20170001P00026A0022.wav	na4 dao3 ye3 shi4 en4 xiong2 shan1 sheng1 ri4	那倒也是嗯熊姗生日
+ST-CMDS-20170001_1-OS/20170001P00235I0052.wav	jia3 fang1 wei4 an4 ben3 xie2 yi4 yue1 ding4	甲方未按本协议约定
+ST-CMDS-20170001_1-OS/20170001P00331I0098.wav	wo3 zhe4 yi1 liang3 tian1 jiu4 zhun3 bei4 ci2 zhi2 le	我这一两天就准备辞职了
+ST-CMDS-20170001_1-OS/20170001P00226I0033.wav	xin1 bo2 quan1 gai1 gai3 zhong4 liang4	新脖圈该改重量
+ST-CMDS-20170001_1-OS/20170001P00055A0081.wav	huang2 shuang3 fa1 peng2 you3 quan1 er2 jiu4 fa1 wo3 yi1 ge4 ren2 kan4	黄爽发朋友圈儿就发我一个人看
+ST-CMDS-20170001_1-OS/20170001P00233I0018.wav	xiao3 xin1 ni3 lao3 po2 bei4 bie2 ren2 guai3 pao3 a	小心你老婆被别人拐跑啊
+ST-CMDS-20170001_1-OS/20170001P00127A0061.wav	hai2 dai4 da4 yi1 xin1 sheng1 jun1 xun4 ne lao3 shuang3 le	还带大一新生军训呢老爽了
+ST-CMDS-20170001_1-OS/20170001P00037I0086.wav	ni3 zhun3 bei4 shi2 yi1 yue4 ci2 zhi2	你准备十一月辞职
+ST-CMDS-20170001_1-OS/20170001P00442A0041.wav	jiang1 yun2 shen1 he2 zi3 teng2 guan1 er3 yi1 xiao4	姜云深和紫藤莞尔一笑
+ST-CMDS-20170001_1-OS/20170001P00205I0118.wav	hu4 jiang1 ri4 yu3 kai1 xin1 ci2 chang2 xia4 zai4	沪江日语开心辞场下载
+ST-CMDS-20170001_1-OS/20170001P00052I0059.wav	bu2 yao4 he2 bai3 wan4 fu4 weng1 bi3	不要和百万富翁比
+ST-CMDS-20170001_1-OS/20170001P00071A0100.wav	ni3 wa2 wa zou3 shi1 diao4 zhe4 me jiu3	你娃娃走失掉这么久
+ST-CMDS-20170001_1-OS/20170001P00148A0113.wav	huang2 se4 de xiong1 bi3 jiao4 da4	黄色的胸比较大
+ST-CMDS-20170001_1-OS/20170001P00319I0049.wav	lao3 nian2 ren2 chang2 wen3 er2 bu4 jian4	老年人常稳而不健
+ST-CMDS-20170001_1-OS/20170001P00045I0047.wav	qun2 zhong4 he2 jun1 dui4 de shi4 qi4 bu4 ke3 jian3	群众和军队的士气不可减
+ST-CMDS-20170001_1-OS/20170001P00303A0068.wav	li3 pei4 zhe4 suan1 shuang3 ni3 yao4 he2 wu2 shi4 xun1	李沛这酸爽你要和吴世勋
+ST-CMDS-20170001_1-OS/20170001P00126I0024.wav	xun2 wen4 zhen1 dui4 xuan1 chuan2 fang1 mian4 you3 he2 ji4 hua2	询问针对宣传方面有何计划
+ST-CMDS-20170001_1-OS/20170001P00254I0031.wav	zui4 weng1 zhi1 yi4 bu4 zai4 jiu3 de yi4 de jie3 shi4	醉翁之意不在酒的意的解释
+ST-CMDS-20170001_1-OS/20170001P00086A0021.wav	kuai4 fang4 jia3 le ren3 ren3 ba zhi3 dai4 le xiong1 ka3 he2 bi3	快放假了忍忍吧只带了胸卡和笔
+ST-CMDS-20170001_1-OS/20170001P00038I0059.wav	ren4 he2 ying1 xiong2 dou1 you3 hui1 huang2 de shi2 hou4	任何英雄都有辉煌的时候
+ST-CMDS-20170001_1-OS/20170001P00030A0104.wav	wo3 hai2 shi4 guai1 guai1 kan4 wo3 de huang2 jin1 ba	我还是乖乖看我的黄金吧
+ST-CMDS-20170001_1-OS/20170001P00075A0026.wav	ni3 bu4 pa4 huang2 he2 ban1 hei1 yan3 quan1	你不怕黄褐斑黑眼圈
+ST-CMDS-20170001_1-OS/20170001P00069A0118.wav	na4 ni3 bang1 wo3 zai4 yue1 yi1 ge4 ba ai1 ni3 dao4 le	那你帮我再约一个吧哎你到了
+ST-CMDS-20170001_1-OS/20170001P00272I0060.wav	suo3 you3 zi1 liao4 jun1 wei4 zhuan3 yi2 dao4 min3 xing2 fa3 yuan4	所有资料均未转移到闵行法院
+ST-CMDS-20170001_1-OS/20170001P00035A0003.wav	jian4 liang4 ya1 you4 bian1 de shi4 qun2 zhu3	见谅呀右边的是群主
+ST-CMDS-20170001_1-OS/20170001P00175A0074.wav	ni3 zong3 re3 ren2 jia1 nan2 wa2 er2 luan4 xiang3	你总惹人家男娃儿乱想
+ST-CMDS-20170001_1-OS/20170001P00226I0018.wav	mei2 gei3 ta1 zuo4 xiong1 ka3 de	没给她做胸卡的
+ST-CMDS-20170001_1-OS/20170001P00393I0033.wav	jin1 qi4 he2 ku4 zi shi4 qun2 li3 chu1 xian4 lv4 zui4 gao1 de ci2	金器和裤子是群里出现率最高的词
+ST-CMDS-20170001_1-OS/20170001P00335A0009.wav	tang3 zai4 chuang2 shang4 guai1 guai1 de deng3 wo3 guo4 qu4	躺在床上乖乖的等我过去
+ST-CMDS-20170001_1-OS/20170001P00429A0061.wav	zhi1 dao4 de hua4 hui4 yun2 xu3 ni3 hu2 zuo4 fei1 wei4 ma	知道的话会允许你胡作非为吗
+ST-CMDS-20170001_1-OS/20170001P00251I0101.wav	wo3 ban4 de shi4 yi1 zhao4 wei3 de2 tong1 dian4 you2 yong3 ka3	我办的是一兆伟德通店游泳卡
+ST-CMDS-20170001_1-OS/20170001P00214I0060.wav	ben3 qun2 de mei2 shang4 gu1 gu1 e2	本群的没上呱呱哦
+ST-CMDS-20170001_1-OS/20170001P00087A0107.wav	shuai4 you4 dai1 meng2 ke3 neng2 shi4 wang4 jun1 de yang2 mi4	帅又呆萌可能是旺君的杨幂
+ST-CMDS-20170001_1-OS/20170001P00186A0089.wav	na4 ge4 ci2 xiang2 de shuang1 yan3 pi2 kan4 chu1 lai2	那个慈祥的双眼皮看出来
+ST-CMDS-20170001_1-OS/20170001P00112A0039.wav	wo3 shi4 ge1 ci2 ai4 hao3 zhe3	我是歌词爱好者
+ST-CMDS-20170001_1-OS/20170001P00386A0106.wav	wo3 ji4 de2 shi4 lei4 si4 kai3 jia3 yong3 shi4 de ke3 yi3	我记得是类似铠甲勇士的可以
+ST-CMDS-20170001_1-OS/20170001P00191A0118.wav	jia1 jin4 qu4 le ta1 shi4 ba1 dun4 jiang1 jun1 wo3 de shi4 bei4 bei4	加进去了他是巴顿将军我的是贝贝
+ST-CMDS-20170001_1-OS/20170001P00089A0117.wav	ni3 shi4 yao4 ya1 dao3 qun2 xiong2 me	你是要压倒群雄么
+ST-CMDS-20170001_1-OS/20170001P00156A0001.wav	lao3 weng1 you4 zai4 da3 wo3 de zhu3 yi4 le	老翁又在打我的主意了
+ST-CMDS-20170001_1-OS/20170001P00305A0056.wav	liang3 xiong1 di4 a dou1 bu4 yao4 guo4 le sheng1 ri4	两兄弟啊都不要过了生日
+ST-CMDS-20170001_1-OS/20170001P00088I0021.wav	huang2 ye4 shi4 ni3 men she4 ji4 de ma	黄烨是你们设计的吗
+ST-CMDS-20170001_1-OS/20170001P00348I0095.wav	kao3 lv4 dang1 qian2 huan4 zhe3 hu1 xi1 shuai1 jie2 ming2 xian3 de xian4 xiang4	考虑当前患者呼吸衰竭明显的现象
+ST-CMDS-20170001_1-OS/20170001P00330A0057.wav	hao3 ji3 ci4 dou1 zhun3 bei4 ci2 zhi2 le	好几次都准备辞职了
+ST-CMDS-20170001_1-OS/20170001P00423A0007.wav	ge4 wei4 ya3 hu3 de ying1 xiong2 hao3 han4	各位雅虎的英雄好汉
+ST-CMDS-20170001_1-OS/20170001P00186I0088.wav	gong1 zuo4 ri4 wo3 bu4 jie1 shou4 yu4 yue1 wai4 chu1 wa1	工作日我不接受预约外出哇
+ST-CMDS-20170001_1-OS/20170001P00092I0028.wav	qun2 ni4 cheng1 de min3 gan3 ci2 hui4	群昵称的敏感词汇
+ST-CMDS-20170001_1-OS/20170001P00126I0115.wav	wo3 zai4 da4 xue3 ri4 zi jiu4 de na4 ge4 ren2	我在大雪日子救的那个人
+ST-CMDS-20170001_1-OS/20170001P00395I0035.wav	bie2 ren2 zhun3 bei4 wan2 peng2 you3 le	别人准备玩朋友了
+ST-CMDS-20170001_1-OS/20170001P00234A0043.wav	ni3 da4 mang2 ren2 diao1 xiong1 wo3 de qun2 you3 ren2	你大忙人雕兄我的群有人
+ST-CMDS-20170001_1-OS/20170001P00347A0079.wav	ni3 hai2 shi4 zhua1 jin3 ba3 bie2 ren2 shuai3 le	你还是抓紧把别人甩了
+ST-CMDS-20170001_1-OS/20170001P00135I0010.wav	zhe4 qi2 shi2 shi4 jun1 dui4 yong4 de bo2 ji2 zhu2	这其实是军队用的搏击术
+ST-CMDS-20170001_1-OS/20170001P00109A0117.wav	wo3 ji4 de2 wo3 hai2 bei4 yong3 yang2 gao1 zhong1 lu4 qu3 guo4 ne	我记得我还被永阳高中录取过呢
+ST-CMDS-20170001_1-OS/20170001P00263I0015.wav	ni3 xian4 zai4 zhun3 bei4 huai2 yun4 le ma	你现在准备怀孕了吗
+ST-CMDS-20170001_1-OS/20170001P00086I0110.wav	ran2 hou4 ci4 ri4 zao3 chen2 dai4 zhao2 xiong2 mao1 yan3 er2 qu4 shang4 ban1	然后次日早晨带着熊猫眼儿去上班
+ST-CMDS-20170001_1-OS/20170001P00099A0007.wav	nan2 dao4 shi4 wo3 shuo1 cuo4 le ma	难道是我说错了吗
+ST-CMDS-20170001_1-OS/20170001P00066A0067.wav	bu4 zhun3 ren4 he2 ren2 jin4 ban1 xuan1 chuan2	不准任何人进班宣传
+ST-CMDS-20170001_1-OS/20170001P00025I0085.wav	shuo1 shuo1 hao3 xiong1 sha4 mei2 gan4 ma ya1	说说好凶啥没干嘛呀
+ST-CMDS-20170001_1-OS/20170001P00371I0113.wav	weng1 fan1 zhen1 de xi3 huan1 yang2 zhen4 ning2 ma	翁帆真的喜欢杨振宁吗
+ST-CMDS-20170001_1-OS/20170001P00330A0035.wav	na4 ni3 xue2 xuan1 chuan2 hou4 qi1 hen3 zhan1 bian4 yi2	那你学宣传后期很占便宜
+ST-CMDS-20170001_1-OS/20170001P00129I0109.wav	wo3 shi4 er4 yuan4 xuan1 chuan2 ke1	我是二院宣传科
+ST-CMDS-20170001_1-OS/20170001P00253A0082.wav	gou4 mai3 yi1 tao4 jin3 se4 yi1 zhuang1 gao1 ji2 qi2 xiong1 li3 fu2	够买一套锦瑟衣庄高级齐胸礼服
+ST-CMDS-20170001_1-OS/20170001P00063A0064.wav	wo3 shi4 he2 yi1 qun2 diao3 si1 shang4 jun1 shi4 li3 lun4	我是和一群屌丝上军事理论
+ST-CMDS-20170001_1-OS/20170001P00362A0007.wav	weng1 si1 ying2 shuo1 wo3 bu4 gen1 ta1 wan2	翁思莹说我不跟他玩
+ST-CMDS-20170001_1-OS/20170001P00239I0022.wav	ran2 hou4 zuo4 xiang3 bai3 wan4 fu4 weng1 zhi1 fu2	然后坐享百万富翁之福
+ST-CMDS-20170001_1-OS/20170001P00203A0031.wav	lin2 zi3 jie4 ni3 dian3 qian2 ni3 lai2 xin1 dian4 yi1 xia4 bai4 xiong1 di4	林仔借你点钱你来新店一下呗兄弟
+ST-CMDS-20170001_1-OS/20170001P00107A0038.wav	dian4 ci2 bo1 fang2 hu4 wei2 qun2 ye3 ting3 hao3 de	电磁波防护围裙也挺好的
+ST-CMDS-20170001_1-OS/20170001P00077A0113.wav	ke3 shi4 mei2 you3 na4 zhong3 yun3 xu3	可是没有那种允许
+ST-CMDS-20170001_1-OS/20170001P00307I0082.wav	jiang1 yuan1 cha1 ru4 yu4 shi4 qiang2 shang4 de ka3 cao2	将渊插入浴室墙上的卡槽
+ST-CMDS-20170001_1-OS/20170001P00344A0098.wav	dui4 bu4 qi3 qing3 yun2 xu3 wo3 xiao1 shi1	对不起请允许我消失
+ST-CMDS-20170001_1-OS/20170001P00361A0015.wav	kan4 kan4 you3 mei2 you3 jing4 pian4 mai4 wo3	看看有没有镜片卖我
+ST-CMDS-20170001_1-OS/20170001P00120A0038.wav	huo4 zhe3 jiao4 xiao3 xiong2 da4 shen2 bei4 fen4 ta1 de xi4 tong3 chu1 lai2	或者叫小熊大神备份他的系统出来
+ST-CMDS-20170001_1-OS/20170001P00118A0068.wav	tan4 guan4 dian4 ci2 fa2 you2 xiang1 gai4	碳罐电磁阀油箱盖
+ST-CMDS-20170001_1-OS/20170001P00283A0047.wav	ren2 pin3 you3 na4 me cha4 ma na3 xie1 xiong1 di4 a	人品有那么差嘛哪些兄弟啊
+ST-CMDS-20170001_1-OS/20170001P00135I0066.wav	na2 wo3 de pu1 gai4 he2 dian4 nao3 er2 yi3	拿我的铺盖和电脑而已
+ST-CMDS-20170001_1-OS/20170001P00126A0029.wav	lian2 xu4 jun1 yun2 de weng1 weng1 sheng1	连续均匀的嗡嗡声
+ST-CMDS-20170001_1-OS/20170001P00402I0035.wav	sheng1 ri4 kuai4 le4 o1 huang2 di4 bi4 xia4	生日快乐噢皇帝陛下
+ST-CMDS-20170001_1-OS/20170001P00171I0037.wav	ni3 zai4 xiang3 shen2 me a a a juan4 mao2 jun1	你在想什么啊啊啊卷毛君
+ST-CMDS-20170001_1-OS/20170001P00025A0096.wav	kuai4 lai2 wan2 shua3 jin1 tian1 wo3 sheng1 ri4	快来玩耍今天我生日
+ST-CMDS-20170001_1-OS/20170001P00019I0029.wav	hai2 zai4 hu1 zhe4 xie1 le gai4 ci2 bi3	还在乎这些了盖茨比
+ST-CMDS-20170001_1-OS/20170001P00261I0051.wav	ba3 yi3 qian2 zai4 dan4 huang2 chang3 de gong1 zuo4 ci2 le	把以前在弹簧厂的工作辞了
+ST-CMDS-20170001_1-OS/20170001P00150I0069.wav	jin1 ri4 qu4 qiong2 hua1 bi3 sai4	今日去琼花比赛
+ST-CMDS-20170001_1-OS/20170001P00099I0099.wav	wo3 zhun3 bei4 ming2 tian1 xia4 dao4 shuang1 jun1 de	我准备明天下到双军的
