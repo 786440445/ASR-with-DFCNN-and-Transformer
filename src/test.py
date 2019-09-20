@@ -26,7 +26,8 @@ def pred_pinyin(model, inputs, input_length):
     text = []
     num2word = pinyin_vocab
     for k in pred:
-        text.append(num2word[k])
+        if k != Const.PAD:
+            text.append(num2word[k])
     pinyin = ' '.join(text)
     return pred, pinyin
 
@@ -103,21 +104,22 @@ def main():
     # 1. 准备测试所需数据， 不必和训练数据一致，通过设置data_args.data_type测试
     hparams = DataHparams()
     parser = hparams.parser
-    hp = parser.parse_args()
-
-    hp.data_type = 'test'
-    hp.shuffle = False
-    hp.data_length = None
-    test_count = 100
-    test_data = GetData(hp)
+    data_hp = parser.parse_args()
+    data_hp.data_type = 'test'
+    data_hp.shuffle = True
+    data_hp.data_length = None
+    test_count = 500
 
     # 2.声学模型-----------------------------------
     hparams = AmHparams()
     parser = hparams.parser
-    hp = parser.parse_args()
-    am_model = CNNCTCModel(hp)
+    am_hp = parser.parse_args()
+    am_model = CNNCTCModel(am_hp)
+
+    test_data = GetData(data_hp, feature_dim=am_hp.feature_dim, batch_size=am_hp.batch_size)
+
     print('loading acoustic model...')
-    am_model.load_model('model_05-7.64')
+    am_model.load_model('model_04-14.91')
 
     # 3.语言模型-----------------------------------
     hparams = LmHparams()

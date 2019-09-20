@@ -13,11 +13,11 @@ hp = parser.parse_args()
 # 加载所有的拼音类别
 def get_py_vocab_list():
     text = pd.read_table(hp.pinyin_dict, header=None)
-    list_symbol = text.iloc[:, 0].tolist()
-    list = Const.PAD_FLAG.split(' ')
-    list.extend(list_symbol)
-    symbol_num = len(list)
-    return symbol_num, list
+    symbol = text.iloc[:, 0].tolist()
+    list_symbol = Const.PAD_FLAG.split(' ')
+    list_symbol.extend(symbol)
+    symbol_num = len(list_symbol)
+    return symbol_num, list_symbol
 
 
 # 加载所有的汉字类别

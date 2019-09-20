@@ -23,11 +23,12 @@ class Language_Model():
             self.y = tf.placeholder(tf.int32, shape=(None, None))
             # embedding
             # X的embedding + position的embedding
+            seq_len = tf.shape(self.x)[1]
             self.emb = embedding(self.x, vocab_size=self.input_vocab_size, num_units=self.hidden_units, scale=True,
                                  scope="enc_embed")
-            self.enc = self.emb + embedding(
-                tf.tile(tf.expand_dims(tf.range(tf.shape(self.x)[1]), 0), [tf.shape(self.x)[0], 1]),
+            position_emb = embedding(tf.tile(tf.expand_dims(tf.range(tf.shape(self.x)[1]), 0), [tf.shape(self.x)[0], 1]),
                 vocab_size=self.position_max_length, num_units=self.hidden_units, zero_pad=False, scale=False, scope="enc_pe")
+            self.enc = self.emb + tf.cast(position_emb[:, :seq_len, :], tf.float32)
 
             # Dropout
             self.enc = tf.layers.dropout(self.enc,

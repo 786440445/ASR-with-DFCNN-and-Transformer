@@ -16,7 +16,7 @@ from src.hparams import DataHparams, AmHparams, LmHparams
 warnings.filterwarnings('ignore')
 
 
-def prepare_data(type, shuffle=True, length=None):
+def prepare_data(type, batch_size=16, feature_dim=200, shuffle=True, length=None,):
     """
     数据准备接口
     :param type: 数据类型
@@ -33,33 +33,30 @@ def prepare_data(type, shuffle=True, length=None):
     hp.data_type = type
     hp.shuffle = shuffle
     hp.data_length = length
-    data = GetData(hp)
+    data = GetData(hp, feature_dim, batch_size=batch_size)
     return data
 
 
-def acoustic_model(train_data, dev_data):
+def acoustic_model(train_data, dev_data, hp):
     """
     声学模型
     :param train_data: 训练数据集合
     :param dev_data: 验证数据集合
     :return:
     """
-    hparams = AmHparams()
-    parser = hparams.parser
-    hp = parser.parse_args()
     epochs = hp.epochs
     model = CNNCTCModel(hp)
 
-    save_step = len(train_data.path_lst) // train_data.batch_size
+    save_step = len(train_data.path_lst) // hp.batch_size
     latest = tf.train.latest_checkpoint(Const.AmModelFolder)
-    select_model = 'model_05-7.64'
+    select_model = '0'
     if os.path.exists(Const.AmModelFolder + select_model + '.hdf5'):
         print('load acoustic model...')
         model.load_model(select_model)
 
-    generator = DataGenerator(train_data)
+    generator = DataGenerator(train_data, hp)
     # 获取一个batch数据
-    dev_generator = DataGenerator(dev_data)
+    dev_generator = DataGenerator(dev_data, hp)
 
     ckpt = "model_{epoch:02d}-{val_loss:.2f}.hdf5"
     cpCallBack = ModelCheckpoint(os.path.join(Const.AmModelFolder, ckpt), verbose=1, save_best_only=True)
@@ -78,21 +75,18 @@ def acoustic_model(train_data, dev_data):
     pass
 
 
-def language_model(train_data):
+def language_model(train_data, hp):
     """
     语言模型
     :param train_data: 训练数据
     :return:
     """
-    hparams = LmHparams()
-    parser = hparams.parser
-    hp = parser.parse_args()
     epochs = hp.epochs
     lm_model = Language_Model(hp)
 
     batch_num = len(train_data.path_lst) // train_data.batch_size
     with lm_model.graph.as_default():
-        saver = tf.train.Saver(max_to_keep=100)
+        saver = tf.train.Saver(max_to_keep=50)
     with tf.Session(graph=lm_model.graph) as sess:
         merged = tf.summary.merge_all()
         sess.run(tf.global_variables_initializer())
@@ -124,12 +118,22 @@ def language_model(train_data):
 
 
 def main():
-    train_data = prepare_data('train', shuffle=True, length=None)
-    dev_data = prepare_data('dev', shuffle=True, length=None)
+    hparams = AmHparams()
+    parser = hparams.parser
+    am_hp = parser.parse_args()
+
+    hparams = LmHparams()
+    parser = hparams.parser
+    lm_hp = parser.parse_args()
+
+    train_data = prepare_data('train', batch_size=am_hp.batch_size,
+                              feature_dim=am_hp.feature_dim, shuffle=True, length=None)
+    dev_data = prepare_data('dev', batch_size=am_hp.batch_size,
+                            feature_dim=am_hp.feature_dim, shuffle=True, length=None)
     print('//-----------------------start acoustic model-----------------------//')
-    # acoustic_model(train_data, dev_data)
+    # acoustic_model(train_data, dev_data, am_hp)
     print('//-----------------------start language model-----------------------//')
-    language_model(train_data)
+    language_model(train_data, lm_hp)
 
 
 if __name__ == '__main__':

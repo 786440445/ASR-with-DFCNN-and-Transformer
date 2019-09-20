@@ -8,9 +8,12 @@ from const import Const
 
 
 class GetData():
-    def __init__(self, args):
+    def __init__(self, args, feature_dim, batch_size=200):
         self.start = 0
+        self.batch_size = batch_size
+        self.feature_dim = feature_dim
         self.feature_max_length = args.feature_max_length
+
         self.data_type = args.data_type
         self.data_path = Const.SpeechDataPath
 
@@ -22,10 +25,8 @@ class GetData():
 
         self.noise = args.noise
         self.data_length = args.data_length
-        self.batch_size = args.batch_size
         self.shuffle = args.shuffle
 
-        self.transformer_feature_dim = args.transformer_feature_dim
         self.lfr_m = args.lfr_m
         self.lfr_n = args.lfr_n
 
@@ -106,9 +107,9 @@ class GetData():
                 signal, sample_rate = sf.read(self.data_path + self.path_lst[index])
             else:
                 signal, sample_rate = sf.read(Const.NoiseOutPath + self.path_lst[index])
+            fbank = compute_fbank_from_api(signal, sample_rate, nfilt=self.feature_dim)
 
             if label_type == 'pinyin':
-                fbank = compute_fbank_from_api(signal, sample_rate)
                 input_data = fbank.reshape([fbank.shape[0], fbank.shape[1], 1])
                 data_length = input_data.shape[0] // 8 + 1
                 label = pny2id(self.pny_lst[index])
@@ -120,9 +121,7 @@ class GetData():
                 if len_label > 64 or len_label > data_length:
                     raise ValueError
                 return input_data, data_length, label, len_label
-
             else:
-                fbank = compute_fbank_from_api(signal, sample_rate, nfilt=self.transformer_feature_dim)
                 input_data = fbank
                 data_length = input_data.shape[0] // 8 + 1
                 label = han2id(self.han_lst[index])

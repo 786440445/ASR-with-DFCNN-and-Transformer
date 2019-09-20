@@ -22,8 +22,7 @@ def main():
     rate = 1
     out_path = Const.NoiseOutPath
     delete_files(out_path)
-
-    train_data = prepare_data('train', batch_size=5, is_shuffle=False, length=None)
+    train_data = prepare_data('train', shuffle=True, length=None)
     pathlist = train_data.path_lst
     pylist = train_data.pny_lst
     hzlist = train_data.han_lst

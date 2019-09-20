@@ -10,12 +10,12 @@ from src.data import pny2id
 
 
 class DataGenerator(Sequence):
-    def __init__(self, datas):
-        self.batch_size = datas.batch_size
+    def __init__(self, datas, hp):
+        self.batch_size = hp.batch_size
         self.paths = datas.path_lst
         self.py_labels = datas.pny_lst
         self.hz_labels = datas.han_lst
-        self.feature_max_length = datas.feature_max_length
+        self.feature_max_length = hp.feature_max_length
         self.indexes = np.arange(len(self.paths))
         self.shuffle = datas.shuffle
         self.data_path = datas.data_path

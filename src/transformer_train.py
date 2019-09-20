@@ -15,10 +15,10 @@ warnings.filterwarnings('ignore')
 # transformer训练Seq2Seq ASR
 def transformer_train(args, train_data):
     model = Transformer(args)
-    epochs = 10
+    epochs = args.epochs
     batch_num = len(train_data.path_lst) // train_data.batch_size
     with model.graph.as_default():
-        saver = tf.train.Saver()
+        saver = tf.train.Saver(max_to_keep=50)
     with tf.Session(graph=model.graph) as sess:
         merged = tf.summary.merge_all()
         sess.run(tf.global_variables_initializer())
@@ -61,8 +61,8 @@ def main():
     hp = parser.parse_args()
 
     # 数据准备工作
-    train_data = prepare_data('train', shuffle=True, length=None)
-    train_data.batch_size = hp.batch_size
+    train_data = prepare_data('train', batch_size=hp.batch_size,
+                              feature_dim=hp.feature_dim, shuffle=True, length=None)
     transformer_train(hp, train_data)
 
 
