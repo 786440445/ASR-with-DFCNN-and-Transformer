@@ -61,8 +61,7 @@ def main():
     hp = parser.parse_args()
 
     # 数据准备工作
-    train_data = prepare_data('train', batch_size=hp.batch_size,
-                              feature_dim=hp.feature_dim, shuffle=True, length=None)
+    train_data = prepare_data('train', hp, shuffle=True, length=None)
     transformer_train(hp, train_data)
 
 

@@ -5,7 +5,7 @@ os.sys.path.append('../')
 from src.noise import add_noise
 from src.train import prepare_data
 from src.const import Const
-
+from src.hparams import AmHparams
 
 def delete_files(pathDir):
     fileList = list(os.listdir(pathDir))
@@ -19,10 +19,14 @@ def delete_files(pathDir):
 
 
 def main():
+    hparams = AmHparams()
+    parser = hparams.parser
+    am_hp = parser.parse_args()
+
     rate = 1
     out_path = Const.NoiseOutPath
     delete_files(out_path)
-    train_data = prepare_data('train', shuffle=True, length=None)
+    train_data = prepare_data('train', am_hp, shuffle=True, length=None)
     pathlist = train_data.path_lst
     pylist = train_data.pny_lst
     hzlist = train_data.han_lst

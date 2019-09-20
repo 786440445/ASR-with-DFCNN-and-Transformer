@@ -14,10 +14,12 @@ hp = parser.parse_args()
 def get_py_vocab_list():
     text = pd.read_table(hp.pinyin_dict, header=None)
     symbol = text.iloc[:, 0].tolist()
-    list_symbol = Const.PAD_FLAG.split(' ')
-    list_symbol.extend(symbol)
-    symbol_num = len(list_symbol)
-    return symbol_num, list_symbol
+    # 是否需要把pad位置放在第一个位置，然后重新训练声学模型
+    # symbol = Const.PAD_FLAG.split(' ')
+    # symbol.extend(symbol)
+    symbol.extend(Const.PAD_FLAG.split(' '))
+    symbol_num = len(symbol)
+    return symbol_num, symbol
 
 
 # 加载所有的汉字类别

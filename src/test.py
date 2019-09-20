@@ -24,10 +24,8 @@ warnings.filterwarnings('ignore')
 def pred_pinyin(model, inputs, input_length):
     pred = model.predict(inputs, input_length)
     text = []
-    num2word = pinyin_vocab
     for k in pred:
-        if k != Const.PAD:
-            text.append(num2word[k])
+        text.append(pinyin_vocab[k])
     pinyin = ' '.join(text)
     return pred, pinyin
 
@@ -57,19 +55,27 @@ def speech_test(am_model, lm_model, test_data, num, sess):
 
             # 语言模型预测
             with sess.as_default():
-                han_in = pred.reshape(1, -1)
-                han_vec = sess.run(lm_model.preds, {lm_model.x: han_in})
-                han_pred = ''.join(hanzi_vocab[idx] for idx in han_vec[0])
+                py_in = pred.reshape(1, -1)
+                han_pred = sess.run(lm_model.preds, {lm_model.x: py_in})
+                han = ''.join(hanzi_vocab[idx] for idx in han_pred[0])
+                # print('pinyin_in:', py_in[0])
+                # print('han_out:', han_pred[0])
+                # print('tar_out:', hanzi_vec)
+                #
+                # # print(sess.run(lm_model.y))
+                # # print(sess.run(lm_model.istarget))
+                # # print(sess.run(lm_model.preds))
+
         except ValueError:
             continue
         print('原文汉字结果:', ''.join(hanzi))
         print('原文拼音结果:', ''.join(y))
         print('预测拼音结果:', pinyin)
-        print('预测汉字结果:', han_pred)
+        print('预测汉字结果:', han)
         data += '原文汉字结果:' + ''.join(hanzi) + '\n'
         data += '原文拼音结果:' + ''.join(y) + '\n'
         data += '预测拼音结果:' + pinyin + '\n'
-        data += '预测汉字结果:' + han_pred + '\n'
+        data += '预测汉字结果:' + han + '\n'
 
         words_n = label.shape[0]
         words_num += words_n  # 把句子的总字数加上
@@ -83,7 +89,7 @@ def speech_test(am_model, lm_model, test_data, num, sess):
         # 汉字距离
         words_n = np.array(hanzi_vec).shape[0]
         han_num += words_n  # 把句子的总字数加上
-        han_edit_distance = GetEditDistance(np.array(hanzi_vec), han_vec[0])
+        han_edit_distance = GetEditDistance(np.array(hanzi_vec), han_pred[0])
         if (han_edit_distance <= words_n):  # 当编辑距离小于等于句子字数时
             han_error_num += han_edit_distance  # 使用编辑距离作为错误字数
         else:  # 否则肯定是增加了一堆乱七八糟的奇奇怪怪的字
@@ -108,7 +114,7 @@ def main():
     data_hp.data_type = 'test'
     data_hp.shuffle = True
     data_hp.data_length = None
-    test_count = 500
+    test_count = 100
 
     # 2.声学模型-----------------------------------
     hparams = AmHparams()
@@ -116,7 +122,7 @@ def main():
     am_hp = parser.parse_args()
     am_model = CNNCTCModel(am_hp)
 
-    test_data = GetData(data_hp, feature_dim=am_hp.feature_dim, batch_size=am_hp.batch_size)
+    test_data = GetData(data_hp, am_hp.batch_size, am_hp.feature_dim, am_hp.feature_max_length)
 
     print('loading acoustic model...')
     am_model.load_model('model_04-14.91')

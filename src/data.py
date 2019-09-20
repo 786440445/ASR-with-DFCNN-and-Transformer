@@ -8,27 +8,27 @@ from const import Const
 
 
 class GetData():
-    def __init__(self, args, feature_dim, batch_size=200):
+    def __init__(self, data_args, batch_size, feature_dim, feature_max_length=1600):
         self.start = 0
         self.batch_size = batch_size
         self.feature_dim = feature_dim
-        self.feature_max_length = args.feature_max_length
+        self.feature_max_length = feature_max_length
 
-        self.data_type = args.data_type
+        self.data_type = data_args.data_type
         self.data_path = Const.SpeechDataPath
 
-        self.thchs30 = args.thchs30
-        self.aishell = args.aishell
-        self.stcmd = args.stcmd
-        self.aidatatang = args.aidatatang
-        self.prime = args.prime
+        self.thchs30 = data_args.thchs30
+        self.aishell = data_args.aishell
+        self.stcmd = data_args.stcmd
+        self.aidatatang = data_args.aidatatang
+        self.prime = data_args.prime
 
-        self.noise = args.noise
-        self.data_length = args.data_length
-        self.shuffle = args.shuffle
+        self.noise = data_args.noise
+        self.data_length = data_args.data_length
+        self.shuffle = data_args.shuffle
 
-        self.lfr_m = args.lfr_m
-        self.lfr_n = args.lfr_n
+        self.lfr_m = data_args.lfr_m
+        self.lfr_n = data_args.lfr_n
 
         self.path_lst = []
         self.pny_lst = []

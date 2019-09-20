@@ -80,8 +80,7 @@ def main():
     parser = hparams.parser
     hp = parser.parse_args()
     # 数据准备工作
-    test_data = prepare_data('test', batch_size=hp.batch_size,
-                             feature_dim=hp.feature_dim, shuffle=True, length=None)
+    test_data = prepare_data('test', hp, shuffle=True, length=None)
     transformer_test(hp, test_data)
 
 
