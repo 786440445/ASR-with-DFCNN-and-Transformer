@@ -9,7 +9,7 @@ from src.model.cnn_ctc import CNNCTCModel
 from src.test import pred_pinyin
 from src.hparams import AmHparams, LmHparams
 from src.model.language_model import Language_Model
-from src.utils import hanzi_vocab
+from src.utils import language_vocab
 from const import Const
 
 
@@ -85,7 +85,7 @@ def main():
         pred = np.array(pred)
         han_in = pred.reshape(1, -1)
         han_vec = sess.run(lm_model.preds, {lm_model.x: han_in})
-        han_pred = ''.join(hanzi_vocab[idx] for idx in han_vec[0])
+        han_pred = ''.join(language_vocab[idx] for idx in han_vec[0])
         print("中文预测结果为：", han_pred)
 
 

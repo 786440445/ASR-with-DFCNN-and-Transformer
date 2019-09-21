@@ -13,7 +13,7 @@ from src.model.language_model import Language_Model
 
 # 0.准备解码所需字典，参数需和训练一致，也可以将字典保存到本地，直接进行读取
 from src.data import GetData
-from src.utils import GetEditDistance, pinyin_vocab, hanzi_vocab
+from src.utils import GetEditDistance, acoustic_vocab, language_vocab
 from src.const import Const
 from src.hparams import DataHparams, AmHparams,  LmHparams
 
@@ -25,7 +25,7 @@ def pred_pinyin(model, inputs, input_length):
     pred = model.predict(inputs, input_length)
     text = []
     for k in pred:
-        text.append(pinyin_vocab[k])
+        text.append(acoustic_vocab[k])
     pinyin = ' '.join(text)
     return pred, pinyin
 
@@ -48,7 +48,7 @@ def speech_test(am_model, lm_model, test_data, num, sess):
         index = (ran_num + i) % num_data
         try:
             hanzi = test_data.han_lst[index]
-            hanzi_vec = [hanzi_vocab.index(idx) for idx in hanzi]
+            hanzi_vec = [language_vocab.index(idx) for idx in hanzi]
             inputs, input_length, label, _ = test_data.get_data(index)
             pred, pinyin = pred_pinyin(am_model, inputs, input_length)
             y = test_data.pny_lst[index]
@@ -57,15 +57,7 @@ def speech_test(am_model, lm_model, test_data, num, sess):
             with sess.as_default():
                 py_in = pred.reshape(1, -1)
                 han_pred = sess.run(lm_model.preds, {lm_model.x: py_in})
-                han = ''.join(hanzi_vocab[idx] for idx in han_pred[0])
-                # print('pinyin_in:', py_in[0])
-                # print('han_out:', han_pred[0])
-                # print('tar_out:', hanzi_vec)
-                #
-                # # print(sess.run(lm_model.y))
-                # # print(sess.run(lm_model.istarget))
-                # # print(sess.run(lm_model.preds))
-
+                han = ''.join(language_vocab[idx] for idx in han_pred[0])
         except ValueError:
             continue
         print('原文汉字结果:', ''.join(hanzi))

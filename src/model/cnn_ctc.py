@@ -5,14 +5,14 @@ from keras import backend as K
 from keras.models import Model
 from keras.utils import multi_gpu_model
 import numpy as np
-from src.utils import decode_ctc, pinyin_vocab_size
+from src.utils import decode_ctc, acoustic_vocab_size
 from src.const import Const
 
 
 class CNNCTCModel():
     def __init__(self, args):
         # 神经网络最终输出的每一个字符向量维度的大小
-        self.vocab_size = pinyin_vocab_size
+        self.vocab_size = acoustic_vocab_size
         self.gpu_nums = args.gpu_nums
         self.lr = args.lr
         self.feature_length = 200
