@@ -6,7 +6,7 @@ import tensorflow as tf
 sys.path.append('../')
 from src.const import Const
 from src.model.transformer import Transformer
-from src.train import prepare_data
+from src.data import prepare_data
 from src.hparams import TransformerHparams
 
 warnings.filterwarnings('ignore')

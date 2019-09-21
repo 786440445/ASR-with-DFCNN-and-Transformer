@@ -16,30 +16,6 @@ from src.hparams import DataHparams, AmHparams, LmHparams
 warnings.filterwarnings('ignore')
 
 
-def prepare_data(type, hp, shuffle=True, length=None,):
-    """
-    数据准备接口
-    :param type: 数据类型
-    :param batch_size: batch大小
-    :param is_shuffle: 是否乱序
-    :param length: 数据长度
-    :return:
-    """
-    # 0.准备训练所需数据------------------------------
-    hparams = DataHparams()
-    parser = hparams.parser
-    data_hp = parser.parse_args()
-
-    data_hp.data_type = type
-    data_hp.shuffle = shuffle
-    data_hp.data_length = length
-
-    batch_size = hp.batch_size
-    feature_dim = hp.feature_dim
-    data = GetData(data_hp, batch_size, feature_dim)
-    return data
-
-
 def acoustic_model(train_data, dev_data, am_hp):
     """
     声学模型

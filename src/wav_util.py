@@ -6,10 +6,14 @@ from scipy.fftpack import fft
 from python_speech_features import mfcc, logfbank
 import matplotlib.pyplot as plt
 from sklearn import preprocessing
-# from speechpy import processing
-# from speechpy import feature
 
 from src.noise import add_noise
+
+
+def compute_fbank_from_file(file, feature_dim=200):
+    signal, sample = sf.read(file)
+    feature = compute_fbank_from_api(signal, sample_rate, nfilt=feature_dim)
+    return feature
 
 
 def compute_fbank_from_api(signal, sample_rate, nfilt=200):
@@ -103,12 +107,6 @@ def compute_fbank_from_asrt(file):
         data_input[i] = data_line[0:200]
     data_input = np.log(data_input + 1)
     return data_input
-
-
-def compute_transformer_fbank(file, feature_dim):
-    signal, sample_rate = sf.read(file)
-    feature = compute_fbank_from_api(signal, sample_rate, nfilt=feature_dim)
-    return feature
 
 
 def wav_show(wave_data, fs): # 显示出来声音波形

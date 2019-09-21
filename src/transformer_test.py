@@ -8,7 +8,7 @@ import datetime
 
 os.sys.path.append('../')
 from src.model.transformer import Transformer
-from src.train import prepare_data
+from src.data import prepare_data
 from src.hparams import TransformerHparams
 from src.utils import GetEditDistance, hanzi_vocab
 from src.const import Const

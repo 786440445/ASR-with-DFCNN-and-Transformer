@@ -10,6 +10,103 @@ hparams = DataHparams()
 parser = hparams.parser
 hp = parser.parse_args()
 
+
+def wav_padding(wav_data_lst):
+    feature_dim = wav_data_lst[0].shape[1]
+    # len(data)实际上就是求语谱图的第一维的长度，也就是n_frames
+    wav_lens = np.array([len(data) for data in wav_data_lst])
+    # 取一个batch中的最长
+    wav_max_len = max(wav_lens)
+    new_wav_data_lst = np.zeros((len(wav_data_lst), wav_max_len, feature_dim), dtype=np.float32)
+    for i in range(len(wav_data_lst)):
+        new_wav_data_lst[i, :wav_data_lst[i].shape[0], :] = wav_data_lst[i]
+    return new_wav_data_lst, wav_lens
+
+
+def label_padding(label_data_lst, pad_idx):
+    label_lens = np.array([len(label) for label in label_data_lst])
+    max_label_len = max(label_lens)
+    new_label_data_lst = np.zeros((len(label_data_lst), max_label_len), dtype=np.int32)
+    new_label_data_lst += pad_idx
+    for i in range(len(label_data_lst)):
+        new_label_data_lst[i][:len(label_data_lst[i])] = label_data_lst[i]
+    return new_label_data_lst, label_lens
+
+
+def build_LFR_features(inputs, m, n):
+    """
+    Actually, this implements stacking frames and skipping frames.
+    if m = 1 and n = 1, just return the origin features.
+    if m = 1 and n > 1, it works like skipping.
+    if m > 1 and n = 1, it works like stacking but only support right frames.
+    if m > 1 and n > 1, it works like LFR.
+    Args:
+        inputs_batch: inputs is T x D np.ndarray
+        m: number of frames to stack
+        n: number of frames to skip
+    """
+    LFR_inputs = []
+    T = inputs.shape[0]
+    T_lfr = int(np.ceil(T / n))
+    for i in range(T_lfr):
+        if m <= T - i * n:
+            LFR_inputs.append(np.hstack(inputs[i*n:i*n+m]))
+        else:
+            num_padding = m - (T - i * n)
+            frame = np.hstack(inputs[i*n:])
+            for _ in range(num_padding):
+                frame = np.hstack((frame, inputs[-1]))
+            LFR_inputs.append(frame)
+    return np.vstack(LFR_inputs)
+
+
+def downsample(feature, contact):
+    add_len = (contact - feature.shape[0] % contact) % contact
+    pad_zero = np.zeros((add_len, feature.shape[1]), dtype=np.float)
+    feature = np.append(feature, pad_zero, axis=0)
+    feature = np.reshape(feature, (feature.shape[0] / 4, feature.shape[1] * 4))
+    return feature
+
+
+def pny2id(line, vocab):
+    """
+    拼音转向量 one-hot embedding，没有成功在vocab中找到索引抛出异常，交给上层处理
+    :param line:
+    :param vocab:
+    :return:
+    """
+    try:
+        line = line.strip()
+        line = line.split(' ')
+        return [vocab.index(pin) for pin in line]
+    except ValueError:
+        raise ValueError
+
+
+def han2id(line, vocab):
+    """
+    文字转向量 one-hot embedding，没有成功在vocab中找到索引抛出异常，交给上层处理
+    :param line:
+    :param vocab:
+    :return:
+    """
+    try:
+        line = line.strip()
+        res = []
+        for han in line:
+            if han == Const.PAD_FLAG:
+                res.append(Const.PAD)
+            elif han == Const.SOS_FLAG:
+                res.append(Const.SOS)
+            elif han == Const.EOS_FLAG:
+                res.append(Const.EOS)
+            else:
+                res.append(vocab.index(han))
+        return res
+    except ValueError:
+        raise ValueError
+
+
 # 声学模型, 语料库大小
 def get_acoustic_vocab_list():
     text = pd.read_table(hp.pinyin_dict, header=None)

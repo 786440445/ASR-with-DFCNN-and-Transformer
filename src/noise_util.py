@@ -3,7 +3,7 @@ import random
 from tqdm import tqdm
 os.sys.path.append('../')
 from src.noise import add_noise
-from src.train import prepare_data
+from src.data import prepare_data
 from src.const import Const
 from src.hparams import AmHparams
 

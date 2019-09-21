@@ -49,7 +49,7 @@ def speech_test(am_model, lm_model, test_data, num, sess):
         try:
             hanzi = test_data.han_lst[index]
             hanzi_vec = [language_vocab.index(idx) for idx in hanzi]
-            inputs, input_length, label, _ = test_data.get_data(index)
+            inputs, input_length, label, _ = test_data.get_fbank_and_pinyin_data(index)
             pred, pinyin = pred_pinyin(am_model, inputs, input_length)
             y = test_data.pny_lst[index]
 
