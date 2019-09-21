@@ -1,7 +1,6 @@
 from src.model.modules.transformer import *
 from src.const import Const
-from src.utils import pinyin_vocab_size
-from src.utils import hanzi_vocab_size
+from src.utils import acoustic_vocab_size, language_vocab_size
 
 
 class Language_Model():
@@ -10,8 +9,8 @@ class Language_Model():
         with self.graph.as_default():
             self.is_training = arg.is_training
             self.hidden_units = arg.hidden_units
-            self.input_vocab_size = pinyin_vocab_size
-            self.label_vocab_size = hanzi_vocab_size
+            self.input_vocab_size = acoustic_vocab_size
+            self.label_vocab_size = language_vocab_size
             self.num_heads = arg.num_heads
             self.num_blocks = arg.num_blocks
             self.position_max_length = arg.position_max_length
