@@ -10,7 +10,25 @@ hparams = DataHparams()
 parser = hparams.parser
 hp = parser.parse_args()
 
-# 加载所有的拼音类别
+# 声学模型, 语料库大小
+def get_acoustic_vocab_list():
+    text = pd.read_table(hp.pinyin_dict, header=None)
+    symbol_list = text.iloc[:, 0].tolist()
+    symbol_list.append('_')
+    symbol_num = len(symbol_list)
+    return symbol_num, symbol_list
+
+
+# 语言模型, 语料库大小
+def get_language_vocab_list():
+    text = pd.read_table(hp.hanzi_dict, header=None)
+    list_lm = text.iloc[:, 0].tolist()
+    list_lm.append('_')
+    hanzi_num = len(list_lm)
+    return hanzi_num, list_lm
+
+
+# Transformer中的加载所有的拼音类别
 def get_py_vocab_list():
     text = pd.read_table(hp.pinyin_dict, header=None)
     symbol = text.iloc[:, 0].tolist()
@@ -22,7 +40,7 @@ def get_py_vocab_list():
     return symbol_num, symbol
 
 
-# 加载所有的汉字类别
+# Transformer中的加载所有的汉字类别
 def get_hz_vocab_list():
     text = pd.read_table(hp.hanzi_dict, header=None)
     list_hanzi = text.iloc[:, 0].tolist()
@@ -59,6 +77,9 @@ def decode_ctc(num_result, input_length):
     r1 = r1[0]
     return r1
 
+
+acoustic_vocab_size, acoustic_vocab = get_acoustic_vocab_list()
+language_vocab_size, language_vocab = get_language_vocab_list()
 
 pinyin_vocab_size, pinyin_vocab = get_py_vocab_list()
 hanzi_vocab_size, hanzi_vocab = get_hz_vocab_list()

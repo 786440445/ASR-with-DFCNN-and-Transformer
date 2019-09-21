@@ -7,6 +7,7 @@ import soundfile as sf
 from src.const import Const
 from src.wav_util import compute_fbank_from_api
 from src.data import pny2id
+from src.utils import acoustic_vocab
 
 
 class DataGenerator(Sequence):
@@ -61,7 +62,7 @@ class DataGenerator(Sequence):
                 fbank = compute_fbank_from_api(signal, sample_rate)
                 input_data = fbank.reshape([fbank.shape[0], fbank.shape[1], 1])
                 data_length = input_data.shape[0] // 8 + 1
-                label = pny2id(py_label_datas[i])
+                label = pny2id(py_label_datas[i], acoustic_vocab)
                 label = np.array(label)
                 len_label = len(label)
                 # 将错误数据进行抛出异常,并处理

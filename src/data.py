@@ -1,10 +1,10 @@
 import pandas as pd
 import os
 
-from utils import pinyin_vocab, hanzi_vocab
 from random import shuffle
-from wav_util import *
-from const import Const
+from src.utils import pinyin_vocab, hanzi_vocab, acoustic_vocab, language_vocab
+from src.wav_util import *
+from src.const import Const
 
 
 class GetData():
@@ -112,7 +112,7 @@ class GetData():
             if label_type == 'pinyin':
                 input_data = fbank.reshape([fbank.shape[0], fbank.shape[1], 1])
                 data_length = input_data.shape[0] // 8 + 1
-                label = pny2id(self.pny_lst[index])
+                label = pny2id(self.pny_lst[index], acoustic_vocab)
                 label = np.array(label)
                 len_label = len(label)
                 # 将错误数据进行抛出异常,并处理
@@ -124,9 +124,9 @@ class GetData():
             else:
                 input_data = fbank
                 data_length = input_data.shape[0] // 8 + 1
-                label = han2id(self.han_lst[index])
+                label = han2id(self.han_lst[index], hanzi_vocab)
                 label.insert(0, Const.SOS)
-                tar_label = han2id(self.han_lst[index])
+                tar_label = han2id(self.han_lst[index], hanzi_vocab)
                 tar_label.append(Const.EOS)
 
                 label = np.array(label)
@@ -206,8 +206,8 @@ class GetData():
             for i in index_list:
                 try:
                     py_vec = pny2id(self.pny_lst[i])\
-                             + [0] * (max_len - len(self.pny_lst[i].strip().split(' ')))
-                    han_vec = han2id(self.han_lst[i]) + [0] * (max_len - len(self.han_lst[i].strip()))
+                             + [0] * (max_len - len(self.pny_lst[i].strip().split(' ')), acoustic_vocab)
+                    han_vec = han2id(self.han_lst[i]) + [0] * (max_len - len(self.han_lst[i].strip()), language_vocab)
                     input_data.append(py_vec)
                     label_data.append(han_vec)
                 except ValueError:
@@ -281,7 +281,7 @@ class GetData():
             else:
                 fbank = compute_transformer_fbank(Const.NoiseOutPath + self.path_lst[index])
 
-            label = pny2id(self.pny_lst[index])
+            label = pny2id(self.pny_lst[index], pinyin_vocab)
             return fbank, label
         except ValueError:
             raise ValueError
@@ -343,7 +343,7 @@ def downsample(feature, contact):
     return feature
 
 
-def pny2id(line):
+def pny2id(line, vocab):
     """
     拼音转向量 one-hot embedding，没有成功在vocab中找到索引抛出异常，交给上层处理
     :param line:
@@ -353,12 +353,12 @@ def pny2id(line):
     try:
         line = line.strip()
         line = line.split(' ')
-        return [pinyin_vocab.index(pin) for pin in line]
+        return [vocab.index(pin) for pin in line]
     except ValueError:
         raise ValueError
 
 
-def han2id(line):
+def han2id(line, vocab):
     """
     文字转向量 one-hot embedding，没有成功在vocab中找到索引抛出异常，交给上层处理
     :param line:
@@ -376,7 +376,7 @@ def han2id(line):
             elif han == Const.EOS_FLAG:
                 res.append(Const.EOS)
             else:
-                res.append(hanzi_vocab.index(han))
+                res.append(vocab.index(han))
         return res
     except ValueError:
         raise ValueError
