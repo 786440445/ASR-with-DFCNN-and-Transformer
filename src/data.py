@@ -125,8 +125,8 @@ class GetData():
                 input_data = fbank
                 data_length = input_data.shape[0] // 8 + 1
                 label = han2id(self.han_lst[index], hanzi_vocab)
+                tar_label = label
                 label.insert(0, Const.SOS)
-                tar_label = han2id(self.han_lst[index], hanzi_vocab)
                 tar_label.append(Const.EOS)
 
                 label = np.array(label)

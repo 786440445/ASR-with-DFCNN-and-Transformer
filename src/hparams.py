@@ -22,7 +22,7 @@ class LmHparams:
     parser.add_argument('--num_blocks', default=6, type=int)
     parser.add_argument('--position_max_length', default=1000, type=int)
     parser.add_argument('--hidden_units', default=512, type=int)
-    parser.add_argument('--lr', default=0.0001, type=int)
+    parser.add_argument('--lr', default=0.0003, type=int)
     parser.add_argument('--dropout_rate', default=0.2, type=float)
     parser.add_argument('--is_training', default=True, type=bool)
 
@@ -52,7 +52,7 @@ class TransformerHparams:
     parser.add_argument('--num_blocks', default=6, type=int)
     parser.add_argument('--position_max_length', default=1000, type=int)
     parser.add_argument('--d_model', default=512, type=int)
-    parser.add_argument('--lr', default=0.0001, type=int)
+    parser.add_argument('--lr', default=0.0003, type=int)
     parser.add_argument('--dropout_rate', default=0.1, type=float)
     parser.add_argument('--is_training', default=True, type=bool)
     parser.add_argument('--feature_dim', default=80, type=int)

@@ -49,7 +49,7 @@ def transformer_train(args, train_data):
                         rs = sess.run(merged, feed_dict=feed)
                         writer.add_summary(rs, k * batch_num + i)
             print('epochs', k + 1, ': average loss = ', total_loss / batch_num)
-            saver.save(sess, Const.LmModelFolder + 'transformer_model_%d_%.3f.ckpt' % (k + 1 + add_num, total_loss / batch_num))
+            saver.save(sess, Const.TransformerFolder + 'transformer_model_%d_%.3f.ckpt' % (k + 1 + add_num, total_loss / batch_num))
         writer.close()
     pass
 
