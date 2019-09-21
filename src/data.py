@@ -282,7 +282,7 @@ class GetData():
                 fbank = compute_transformer_fbank(Const.NoiseOutPath + self.path_lst[index], self.feature_dim)
             input_data = build_LFR_features(fbank, self.lfr_m, self.lfr_n)
             input_data = np.expand_dims(input_data, axis=0)
-            label = np.array([[Const.SOS for _ in self.pny_lst[index]]])
+            label = np.array([[Const.SOS for _ in range(input_data.shape[1])]])
             return input_data, label,
         except ValueError:
             raise ValueError
