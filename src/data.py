@@ -205,9 +205,9 @@ class GetData():
             label_data = []
             for i in index_list:
                 try:
-                    py_vec = pny2id(self.pny_lst[i])\
-                             + [0] * (max_len - len(self.pny_lst[i].strip().split(' ')), acoustic_vocab)
-                    han_vec = han2id(self.han_lst[i]) + [0] * (max_len - len(self.han_lst[i].strip()), language_vocab)
+                    py_vec = pny2id(self.pny_lst[i], acoustic_vocab)\
+                             + [0] * (max_len - len(self.pny_lst[i].strip().split(' ')))
+                    han_vec = han2id(self.han_lst[i], language_vocab) + [0] * (max_len - len(self.han_lst[i].strip()))
                     input_data.append(py_vec)
                     label_data.append(han_vec)
                 except ValueError:

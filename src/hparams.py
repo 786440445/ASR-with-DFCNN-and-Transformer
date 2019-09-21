@@ -18,6 +18,7 @@ class LmHparams:
     # 语言模型参数
     parser = argparse.ArgumentParser()
     parser.add_argument('--epochs', default=100, type=int)
+    parser.add_argument('--batch_size', default=40, type=int)
     parser.add_argument('--num_heads', default=8, type=int)
     parser.add_argument('--num_blocks', default=6, type=int)
     parser.add_argument('--position_max_length', default=1000, type=int)

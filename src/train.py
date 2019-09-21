@@ -127,14 +127,16 @@ def main():
     parser = hparams.parser
     am_hp = parser.parse_args()
 
-    hparams = LmHparams()
-    parser = hparams.parser
-    lm_hp = parser.parse_args()
-
     train_data = prepare_data('train', am_hp, shuffle=True, length=None)
     dev_data = prepare_data('dev', am_hp, shuffle=True, length=None)
     print('//-----------------------start acoustic model-----------------------//')
     # acoustic_model(train_data, dev_data, am_hp)
+
+    hparams = LmHparams()
+    parser = hparams.parser
+    lm_hp = parser.parse_args()
+
+    train_data = prepare_data('train', lm_hp, shuffle=True, length=None)
     print('//-----------------------start language model-----------------------//')
     language_model(train_data, lm_hp)
 
