@@ -17,11 +17,12 @@ class AmHparams:
 class LmHparams:
     # 语言模型参数
     parser = argparse.ArgumentParser()
+    parser.add_argument('--feature_dim', default=200, type=int)
     parser.add_argument('--epochs', default=100, type=int)
     parser.add_argument('--batch_size', default=40, type=int)
     parser.add_argument('--num_heads', default=8, type=int)
     parser.add_argument('--num_blocks', default=6, type=int)
-    parser.add_argument('--position_max_length', default=1000, type=int)
+    parser.add_argument('--position_max_length', default=100, type=int)
     parser.add_argument('--hidden_units', default=512, type=int)
     parser.add_argument('--lr', default=0.0003, type=int)
     parser.add_argument('--dropout_rate', default=0.2, type=float)
@@ -61,5 +62,5 @@ class TransformerHparams:
     parser.add_argument('--epochs', default=100, type=int)
     parser.add_argument('--batch_size', default=5, type=int)
     # 预测长度
-    parser.add_argument('--count', default=5000, type=int)
+    parser.add_argument('--count', default=500, type=int)
     parser.add_argument('--concat', default=4, type=int)

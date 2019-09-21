@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 from random import shuffle
-from src.utils import pinyin_vocab, hanzi_vocab, acoustic_vocab, language_vocab
+from src.utils import hanzi_vocab, acoustic_vocab, language_vocab
 from src.wav_util import *
 from src.const import Const
 
@@ -277,12 +277,13 @@ class GetData():
             # Fbank特征提取函数(从feature_python)
             file = os.path.join(self.data_path, self.path_lst[index])
             if os.path.isfile(file):
-                fbank = compute_transformer_fbank(self.data_path + self.path_lst[index])
+                fbank = compute_transformer_fbank(self.data_path + self.path_lst[index], self.feature_dim)
             else:
-                fbank = compute_transformer_fbank(Const.NoiseOutPath + self.path_lst[index])
-
-            label = pny2id(self.pny_lst[index], pinyin_vocab)
-            return fbank, label
+                fbank = compute_transformer_fbank(Const.NoiseOutPath + self.path_lst[index], self.feature_dim)
+            input_data = build_LFR_features(fbank, self.lfr_m, self.lfr_n)
+            input_data = np.expand_dims(input_data, axis=0)
+            label = np.array([[Const.SOS for _ in self.pny_lst[index]]])
+            return input_data, label,
         except ValueError:
             raise ValueError
 
@@ -338,7 +339,6 @@ def downsample(feature, contact):
     add_len = (contact - feature.shape[0] % contact) % contact
     pad_zero = np.zeros((add_len, feature.shape[1]), dtype=np.float)
     feature = np.append(feature, pad_zero, axis=0)
-    print(feature.shape)
     feature = np.reshape(feature, (feature.shape[0] / 4, feature.shape[1] * 4))
     return feature
 

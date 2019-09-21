@@ -28,18 +28,6 @@ def get_language_vocab_list():
     return hanzi_num, list_lm
 
 
-# Transformer中的加载所有的拼音类别
-def get_py_vocab_list():
-    text = pd.read_table(hp.pinyin_dict, header=None)
-    symbol = text.iloc[:, 0].tolist()
-    # 是否需要把pad位置放在第一个位置，然后重新训练声学模型
-    # symbol = Const.PAD_FLAG.split(' ')
-    # symbol.extend(symbol)
-    symbol.extend(Const.PAD_FLAG.split(' '))
-    symbol_num = len(symbol)
-    return symbol_num, symbol
-
-
 # Transformer中的加载所有的汉字类别
 def get_hz_vocab_list():
     text = pd.read_table(hp.hanzi_dict, header=None)
@@ -81,5 +69,4 @@ def decode_ctc(num_result, input_length):
 acoustic_vocab_size, acoustic_vocab = get_acoustic_vocab_list()
 language_vocab_size, language_vocab = get_language_vocab_list()
 
-pinyin_vocab_size, pinyin_vocab = get_py_vocab_list()
 hanzi_vocab_size, hanzi_vocab = get_hz_vocab_list()

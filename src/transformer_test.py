@@ -12,13 +12,14 @@ from src.train import prepare_data
 from src.hparams import TransformerHparams
 from src.utils import GetEditDistance, hanzi_vocab
 from src.const import Const
+from src.data import han2id
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
 warnings.filterwarnings('ignore')
 
 
 def get_pred_han(logits):
-    logits = [item != Const.PAD for item in logits]
+    logits = logits[0]
     return ''.join(hanzi_vocab[idx] for idx in logits[:-1])
 
 
@@ -44,9 +45,11 @@ def transformer_test(hp, test_data):
             try:
                 print('\nthe ', i + 1, 'th example.')
                 index = (ran_num + i) % num_data
-                X, label = test_data.get_transformer_data(index)
+                X, Y = test_data.get_transformer_data(index)
                 hanzi = test_data.han_lst[index]
-                preds = sess.run(model.preds, feed_dict={model.x: X})
+                tar_get = han2id(hanzi, hanzi_vocab)
+                preds = sess.run(model.preds, feed_dict={model.x: X, model.y: Y})
+                print(preds)
                 han_pred = get_pred_han(preds)
             except ValueError:
                 continue
@@ -58,7 +61,7 @@ def transformer_test(hp, test_data):
             # 汉字距离
             words_n = np.array(preds).shape[0]
             han_num += words_n  # 把句子的总字数加上
-            han_edit_distance = GetEditDistance(np.array(preds), preds[0])
+            han_edit_distance = GetEditDistance(np.array(tar_get), preds[0])
             if (han_edit_distance <= words_n):  # 当编辑距离小于等于句子字数时
                 han_error_num += han_edit_distance  # 使用编辑距离作为错误字数
             else:  # 否则肯定是增加了一堆乱七八糟的奇奇怪怪的字
@@ -81,6 +84,7 @@ def main():
     hp = parser.parse_args()
     # 数据准备工作
     test_data = prepare_data('test', hp, shuffle=True, length=None)
+    test_data.feature_dim = hp.feature_dim
     transformer_test(hp, test_data)
 
 

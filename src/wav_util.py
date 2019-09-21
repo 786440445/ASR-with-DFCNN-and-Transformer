@@ -105,8 +105,10 @@ def compute_fbank_from_asrt(file):
     return data_input
 
 
-def compute_transformer_fbank(file,debug=True):
-    pass
+def compute_transformer_fbank(file, feature_dim):
+    signal, sample_rate = sf.read(file)
+    feature = compute_fbank_from_api(signal, sample_rate, nfilt=feature_dim)
+    return feature
 
 
 def wav_show(wave_data, fs): # 显示出来声音波形
