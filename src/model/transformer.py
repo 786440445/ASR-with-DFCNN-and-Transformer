@@ -1,5 +1,5 @@
 from src.model.modules.transformer import *
-from src.utils import pinyin_vocab_size, hanzi_vocab_size
+from src.utils import hanzi_vocab_size
 from src.const import Const
 
 
@@ -9,7 +9,6 @@ class Transformer():
         with self.graph.as_default():
             self.is_training = arg.is_training
             self.d_model = arg.d_model
-            self.input_vocab_size = pinyin_vocab_size
             self.label_vocab_size = hanzi_vocab_size
             self.num_heads = arg.num_heads
             self.num_blocks = arg.num_blocks

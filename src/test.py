@@ -106,7 +106,6 @@ def main():
     data_hp.data_type = 'test'
     data_hp.shuffle = True
     data_hp.data_length = None
-    test_count = 500
 
     # 2.声学模型-----------------------------------
     hparams = AmHparams()
@@ -123,6 +122,8 @@ def main():
     hparams = LmHparams()
     parser = hparams.parser
     hp = parser.parse_args()
+    test_count = hp.count
+
     print('loading language model...')
     lm_model = Language_Model(hp)
     gpu_options = tf.GPUOptions(per_process_gpu_memory_fraction=0.1)
