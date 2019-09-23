@@ -69,7 +69,7 @@ def transformer_speech(sess, model, train_data, file):
 
 def recognition(type='dfcnn'):
 
-    file = '../wav_file/input_file.wav'
+    file = '../wav_file/input1.wav'
 
     # 现场输入识别
     receive_wav(file)
@@ -80,7 +80,7 @@ def recognition(type='dfcnn'):
         hp = parser.parse_args()
         am_model = CNNCTCModel(hp)
         print('loading acoustic model...')
-        select_model_step = 'model_05-7.64'
+        select_model_step = 'model_04-14.91'
         am_model.load_model(select_model_step)
 
         # 2.语言模型-----------------------------------

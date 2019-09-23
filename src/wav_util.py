@@ -11,7 +11,7 @@ from src.noise import add_noise
 
 
 def compute_fbank_from_file(file, feature_dim=200):
-    signal, sample = sf.read(file)
+    signal, sample_rate = sf.read(file)
     feature = compute_fbank_from_api(signal, sample_rate, nfilt=feature_dim)
     return feature
 

@@ -28,7 +28,7 @@ class LmHparams:
     parser.add_argument('--lr', default=0.0003, type=int)
     parser.add_argument('--dropout_rate', default=0.2, type=float)
     parser.add_argument('--is_training', default=True, type=bool)
-    parser.add_argument('--count', default=500, type=int)
+    parser.add_argument('--count', default=5000, type=int)
 
 
 class DataHparams:

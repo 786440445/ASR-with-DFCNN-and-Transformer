@@ -284,7 +284,7 @@ class GetData():
                 # label为decoder的输入，ground_truth为decoder的输出
                 pad_wav_data, input_length = wav_padding(wav_data_lst)
                 pad_label_data, label_length = label_padding(label_data_lst, Const.EOS)
-                pad_target_data, _ = label_padding(target_label_lst, Const.PAD)
+                pad_target_data, _ = label_padding(target_label_lst, -1)
                 # 删除异常语音信息
                 if error_count != []:
                     pad_wav_data = np.delete(pad_wav_data, error_count, axis=0)
@@ -305,7 +305,7 @@ class GetData():
             fbank = compute_fbank_from_file(file, feature_dim=self.feature_dim)
             input_data = build_LFR_features(fbank, self.lfr_m, self.lfr_n)
             input_data = np.expand_dims(input_data, axis=0)
-            label = np.array([[Const.SOS for _ in range(input_data.shape[1])]])
+            label = np.array([[Const.SOS]])
             return input_data, label,
         except ValueError:
             raise ValueError
@@ -328,6 +328,7 @@ class GetData():
             return X, y
         except ValueError:
             raise ValueError
+
 
 if __name__ == "__main__":
     pass
